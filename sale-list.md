@@ -7,6 +7,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
+| Shadow Play / Shadowplay (1986) mule deer | **AP 6/50** | Yes (framed & matted) | $2,000 BO | eBay (Kelly's) | new | [open](https://www.ebay.com/itm/336630129436) |
 | Bunny Berries AP (1994) | AP ed. of 75 | Yes | Inquire ~$1,200 | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 | Bunny Berries AP | AP | Unknown | $475 BIN | eBay | Jun 25 | [open](https://www.ebay.com/itm/284488585547) |
 | Foxfire AP on Paper | AP on paper | Unknown | $449.99 BO | eBay (prints.com) | Mar 19 | [open](https://www.ebay.com/itm/358352604889) |
@@ -73,7 +74,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Lot of 16 wildlife prints (incl. Shadow Play 6/50) | Mixed S/N; Shadow Play 6/50 | Mixed (8/8) | $7,500 | Kelly's | — | [open](https://www.kellyscollectiblesmt.com/product/lot-of-16-vivi-crandall-wildlife-prints-framed-and-rolled/) |
+| Lot of 16 wildlife prints (incl. another Shadow Play ref; see eBay AP 6/50 above) | Mixed S/N; Shadow Play 6/50 | Mixed (8/8) | $7,500 | Kelly's | — | [open](https://www.kellyscollectiblesmt.com/product/lot-of-16-vivi-crandall-wildlife-prints-framed-and-rolled/) |
 
 ## Gallery 601
 
