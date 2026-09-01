@@ -12,7 +12,6 @@
     --text: #e8eaed;
     --muted: #9aa0a6;
     --accent: #c084fc;
-    --ap: #fbbf24;
     --line: #2a3140;
     --link: #7dd3fc;
   }
@@ -46,34 +45,34 @@
     border-radius: 999px; padding: 6px 12px; font-size: .8rem; cursor: pointer;
   }
   .chip.active { background: #3b2760; color: #f3e8ff; border-color: var(--accent); }
+  .chip-ap.active, .chip.chip-ap { border-color: #78350f; color: #fbbf24; }
+  .chip-ap.active { background: #422006; }
+  .chip-original.active, .chip.chip-original { border-color: #9f1239; color: #fb7185; }
+  .chip-original.active { background: #4c0519; }
+  .chip-print.active, .chip.chip-print { border-color: #0369a1; color: #38bdf8; }
+  .chip-print.active { background: #0c4a6e; }
   main { padding: 16px 20px 40px; max-width: 1400px; margin: 0 auto; }
   h2.section {
-    margin: 28px 0 12px;
+    margin: 12px 0 12px;
     font-size: .95rem;
     letter-spacing: .04em;
     text-transform: uppercase;
-    color: var(--accent);
     font-weight: 700;
   }
-  h2.section:first-child { margin-top: 8px; }
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
     gap: 12px;
   }
   .card {
-    background: linear-gradient(180deg, var(--card) 0%, var(--card2) 100%);
     border: 1px solid var(--line);
     border-radius: 12px;
     padding: 14px 14px 12px;
     display: flex; flex-direction: column; gap: 8px;
     min-height: 150px;
   }
-  .card.ap { border-color: #78580a; box-shadow: inset 0 0 0 1px rgba(251,191,36,.15); }
   .card .name { font-weight: 650; font-size: .98rem; }
-  .card .price {
-    font-size: 1.05rem; font-weight: 700; color: #86efac;
-  }
+  .card .price { font-size: 1.05rem; font-weight: 700; }
   .meta {
     display: grid;
     grid-template-columns: 72px 1fr;
@@ -85,30 +84,243 @@
   .badge {
     display: inline-block; font-size: .7rem; font-weight: 700;
     letter-spacing: .03em; text-transform: uppercase;
-    background: #422006; color: var(--ap);
     border-radius: 6px; padding: 2px 7px; width: fit-content;
   }
   .card a {
-    margin-top: auto; color: var(--link); text-decoration: none; font-size: .82rem; font-weight: 600;
+    margin-top: auto; text-decoration: none; font-size: .82rem; font-weight: 600;
   }
   .card a:hover { text-decoration: underline; }
   .hidden { display: none !important; }
   footer { color: var(--muted); font-size: .8rem; padding: 8px 4px; }
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 0; padding: 0;
+    list-style: none; font-size: .72rem; color: var(--muted);
+  }
+  .legend li {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 3px 8px; border-radius: 999px; border: 1px solid var(--line);
+  }
+  .legend i {
+    width: 8px; height: 8px; border-radius: 50%; display: inline-block;
+  }
+
+  .theme-ap h2.section { color: #fbbf24; border-left: 3px solid #fbbf24; padding-left: 10px; }
+  .theme-ap .card {
+    background: linear-gradient(165deg, #1a1408 0%, #2a1f0a 100%);
+    border-color: #78350f;
+    box-shadow: inset 0 0 0 1px #fbbf2422, 0 0 24px #fbbf2410;
+  }
+  .theme-ap .card .price { color: #fbbf24; }
+  .theme-ap .badge { background: #422006; color: #fbbf24; }
+  .theme-ap .card a { color: #fbbf24; }
+  .theme-ap .section-wrap {
+    background: linear-gradient(90deg, #fbbf2414, transparent 55%);
+    border: 1px solid #78350f55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-ap { border-color: #78350f; color: #fbbf24; }
+  .chip.chip-ap.active { background: #422006; color: #fbbf24; border-color: #fbbf24; }
+
+  .theme-original h2.section { color: #fb7185; border-left: 3px solid #fb7185; padding-left: 10px; }
+  .theme-original .card {
+    background: linear-gradient(165deg, #1a0c10 0%, #2a1218 100%);
+    border-color: #9f1239;
+    box-shadow: inset 0 0 0 1px #fb718522, 0 0 24px #fb718510;
+  }
+  .theme-original .card .price { color: #fb7185; }
+  .theme-original .badge { background: #4c0519; color: #fb7185; }
+  .theme-original .card a { color: #fb7185; }
+  .theme-original .section-wrap {
+    background: linear-gradient(90deg, #fb718514, transparent 55%);
+    border: 1px solid #9f123955;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-original { border-color: #9f1239; color: #fb7185; }
+  .chip.chip-original.active { background: #4c0519; color: #fb7185; border-color: #fb7185; }
+
+  .theme-ebay-new h2.section { color: #38bdf8; border-left: 3px solid #38bdf8; padding-left: 10px; }
+  .theme-ebay-new .card {
+    background: linear-gradient(165deg, #0a1520 0%, #0f2233 100%);
+    border-color: #0369a1;
+    box-shadow: inset 0 0 0 1px #38bdf822, 0 0 24px #38bdf810;
+  }
+  .theme-ebay-new .card .price { color: #38bdf8; }
+  .theme-ebay-new .badge { background: #0c4a6e; color: #38bdf8; }
+  .theme-ebay-new .card a { color: #38bdf8; }
+  .theme-ebay-new .section-wrap {
+    background: linear-gradient(90deg, #38bdf814, transparent 55%);
+    border: 1px solid #0369a155;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-ebay-new { border-color: #0369a1; color: #38bdf8; }
+  .chip.chip-ebay-new.active { background: #0c4a6e; color: #38bdf8; border-color: #38bdf8; }
+
+  .theme-ebay-other h2.section { color: #2dd4bf; border-left: 3px solid #2dd4bf; padding-left: 10px; }
+  .theme-ebay-other .card {
+    background: linear-gradient(165deg, #0a1a18 0%, #0f2824 100%);
+    border-color: #0f766e;
+    box-shadow: inset 0 0 0 1px #2dd4bf22, 0 0 24px #2dd4bf10;
+  }
+  .theme-ebay-other .card .price { color: #2dd4bf; }
+  .theme-ebay-other .badge { background: #134e4a; color: #2dd4bf; }
+  .theme-ebay-other .card a { color: #2dd4bf; }
+  .theme-ebay-other .section-wrap {
+    background: linear-gradient(90deg, #2dd4bf14, transparent 55%);
+    border: 1px solid #0f766e55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-ebay-other { border-color: #0f766e; color: #2dd4bf; }
+  .chip.chip-ebay-other.active { background: #134e4a; color: #2dd4bf; border-color: #2dd4bf; }
+
+  .theme-brokerage h2.section { color: #c084fc; border-left: 3px solid #c084fc; padding-left: 10px; }
+  .theme-brokerage .card {
+    background: linear-gradient(165deg, #140a1c 0%, #221033 100%);
+    border-color: #7e22ce;
+    box-shadow: inset 0 0 0 1px #c084fc22, 0 0 24px #c084fc10;
+  }
+  .theme-brokerage .card .price { color: #c084fc; }
+  .theme-brokerage .badge { background: #3b0764; color: #c084fc; }
+  .theme-brokerage .card a { color: #c084fc; }
+  .theme-brokerage .section-wrap {
+    background: linear-gradient(90deg, #c084fc14, transparent 55%);
+    border: 1px solid #7e22ce55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-brokerage { border-color: #7e22ce; color: #c084fc; }
+  .chip.chip-brokerage.active { background: #3b0764; color: #c084fc; border-color: #c084fc; }
+
+  .theme-kellys h2.section { color: #fb923c; border-left: 3px solid #fb923c; padding-left: 10px; }
+  .theme-kellys .card {
+    background: linear-gradient(165deg, #1a120a 0%, #2a1a10 100%);
+    border-color: #c2410c;
+    box-shadow: inset 0 0 0 1px #fb923c22, 0 0 24px #fb923c10;
+  }
+  .theme-kellys .card .price { color: #fb923c; }
+  .theme-kellys .badge { background: #7c2d12; color: #fb923c; }
+  .theme-kellys .card a { color: #fb923c; }
+  .theme-kellys .section-wrap {
+    background: linear-gradient(90deg, #fb923c14, transparent 55%);
+    border: 1px solid #c2410c55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-kellys { border-color: #c2410c; color: #fb923c; }
+  .chip.chip-kellys.active { background: #7c2d12; color: #fb923c; border-color: #fb923c; }
+
+  .theme-g601 h2.section { color: #4ade80; border-left: 3px solid #4ade80; padding-left: 10px; }
+  .theme-g601 .card {
+    background: linear-gradient(165deg, #0a1a10 0%, #102a18 100%);
+    border-color: #15803d;
+    box-shadow: inset 0 0 0 1px #4ade8022, 0 0 24px #4ade8010;
+  }
+  .theme-g601 .card .price { color: #4ade80; }
+  .theme-g601 .badge { background: #14532d; color: #4ade80; }
+  .theme-g601 .card a { color: #4ade80; }
+  .theme-g601 .section-wrap {
+    background: linear-gradient(90deg, #4ade8014, transparent 55%);
+    border: 1px solid #15803d55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-g601 { border-color: #15803d; color: #4ade80; }
+  .chip.chip-g601.active { background: #14532d; color: #4ade80; border-color: #4ade80; }
+
+  .theme-artusa h2.section { color: #818cf8; border-left: 3px solid #818cf8; padding-left: 10px; }
+  .theme-artusa .card {
+    background: linear-gradient(165deg, #0f1020 0%, #181a30 100%);
+    border-color: #4338ca;
+    box-shadow: inset 0 0 0 1px #818cf822, 0 0 24px #818cf810;
+  }
+  .theme-artusa .card .price { color: #818cf8; }
+  .theme-artusa .badge { background: #1e1b4b; color: #818cf8; }
+  .theme-artusa .card a { color: #818cf8; }
+  .theme-artusa .section-wrap {
+    background: linear-gradient(90deg, #818cf814, transparent 55%);
+    border: 1px solid #4338ca55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-artusa { border-color: #4338ca; color: #818cf8; }
+  .chip.chip-artusa.active { background: #1e1b4b; color: #818cf8; border-color: #818cf8; }
+
+  .theme-prints h2.section { color: #f472b6; border-left: 3px solid #f472b6; padding-left: 10px; }
+  .theme-prints .card {
+    background: linear-gradient(165deg, #1a0c14 0%, #2a1220 100%);
+    border-color: #be185d;
+    box-shadow: inset 0 0 0 1px #f472b622, 0 0 24px #f472b610;
+  }
+  .theme-prints .card .price { color: #f472b6; }
+  .theme-prints .badge { background: #831843; color: #f472b6; }
+  .theme-prints .card a { color: #f472b6; }
+  .theme-prints .section-wrap {
+    background: linear-gradient(90deg, #f472b614, transparent 55%);
+    border: 1px solid #be185d55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-prints { border-color: #be185d; color: #f472b6; }
+  .chip.chip-prints.active { background: #831843; color: #f472b6; border-color: #f472b6; }
+
+  .theme-default h2.section { color: #c084fc; border-left: 3px solid #c084fc; padding-left: 10px; }
+  .theme-default .card {
+    background: linear-gradient(165deg, #1a1e27 0%, #222833 100%);
+    border-color: #6b21a8;
+    box-shadow: inset 0 0 0 1px #c084fc22, 0 0 24px #c084fc10;
+  }
+  .theme-default .card .price { color: #c084fc; }
+  .theme-default .badge { background: #3b2760; color: #c084fc; }
+  .theme-default .card a { color: #c084fc; }
+  .theme-default .section-wrap {
+    background: linear-gradient(90deg, #c084fc14, transparent 55%);
+    border: 1px solid #6b21a855;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-default { border-color: #6b21a8; color: #c084fc; }
+  .chip.chip-default.active { background: #3b2760; color: #c084fc; border-color: #c084fc; }
+
 </style>
 </head>
 <body>
 <header>
   <h1>Vivi Crandall — currently for sale</h1>
-  <p>Updated 2026-09-01 · active listings only · no plates · 54 pieces</p>
+  <p>Updated 2026-09-01 · active listings only · no plates · 54 pieces · color by category</p>
   <div class="filters">
     <input id="q" type="search" placeholder="Filter by name, number, source…" />
     <button class="chip active" data-filter="all" type="button">All</button>
-    <button class="chip" data-filter="ap" type="button">Artist proofs</button>
-    <button class="chip" data-filter="original" type="button">Originals</button>
-    <button class="chip" data-filter="print" type="button">Prints</button>
+    <button class="chip chip-ap" data-filter="ap" type="button">Artist proofs</button>
+    <button class="chip chip-original" data-filter="original" type="button">Originals</button>
+    <button class="chip chip-print" data-filter="print" type="button">Prints</button>
   </div>
+  <ul class="legend">
+    <li><i style="background:#fbbf24"></i> Artist proofs</li>
+    <li><i style="background:#fb7185"></i> Originals</li>
+    <li><i style="background:#38bdf8"></i> Newest eBay</li>
+    <li><i style="background:#2dd4bf"></i> Other eBay</li>
+    <li><i style="background:#c084fc"></i> Art Brokerage</li>
+    <li><i style="background:#fb923c"></i> Kelly's</li>
+    <li><i style="background:#4ade80"></i> Gallery 601</li>
+    <li><i style="background:#818cf8"></i> ArtUSA</li>
+    <li><i style="background:#f472b6"></i> Prints.com</li>
+  </ul>
 </header>
 <main>
+<section class="section-wrap theme-ap" data-theme="theme-ap">
 <h2 class="section" data-section="★ Artist proofs">★ Artist proofs</h2>
 <div class="grid" data-section-grid="★ Artist proofs">
 <article class="card ap" data-kind="ap" data-text="bunny berries ap (1994) ap ed. of 75 art brokerage inquire ~$1,200">
@@ -184,6 +396,8 @@
   <a href="https://www.ebay.com/itm/296927806785" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
+<section class="section-wrap theme-original" data-theme="theme-original">
 <h2 class="section" data-section="Original paintings">Original paintings</h2>
 <div class="grid" data-section-grid="Original paintings">
 <article class="card " data-kind="original" data-text="rams in a mountain landscape original oil on canvas ebay $4,450 bo">
@@ -211,6 +425,8 @@
   <a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
+<section class="section-wrap theme-ebay-new" data-theme="theme-ebay-new">
 <h2 class="section" data-section="Newest eBay (prints.com)">Newest eBay (prints.com)</h2>
 <div class="grid" data-section-grid="Newest eBay (prints.com)">
 <article class="card " data-kind="print" data-text="wascally wabbit – rabbit — ebay $399.99 bo">
@@ -430,6 +646,8 @@
   <a href="https://www.ebay.com/itm/397665942089" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
+<section class="section-wrap theme-ebay-other" data-theme="theme-ebay-other">
 <h2 class="section" data-section="Other eBay S/N prints">Other eBay S/N prints</h2>
 <div class="grid" data-section-grid="Other eBay S/N prints">
 <article class="card " data-kind="print" data-text="running on empty (1989) 230/1835 ebay $250 bo">
@@ -577,6 +795,8 @@
   <a href="https://www.ebay.com/itm/284179048595" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
+<section class="section-wrap theme-brokerage" data-theme="theme-brokerage">
 <h2 class="section" data-section="Art Brokerage">Art Brokerage</h2>
 <div class="grid" data-section-grid="Art Brokerage">
 <article class="card " data-kind="print" data-text="royal flush (1992) hand signed litho ed. 670 art brokerage inquire ~$1,800">
@@ -616,8 +836,10 @@
   <a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
-<h2 class="section" data-section="Kelly&#x27;s Collectibles">Kelly&#x27;s Collectibles</h2>
-<div class="grid" data-section-grid="Kelly&#x27;s Collectibles">
+</section>
+<section class="section-wrap theme-kellys" data-theme="theme-kellys">
+<h2 class="section" data-section="Kelly&amp;#x27;s Collectibles">Kelly&amp;#x27;s Collectibles</h2>
+<div class="grid" data-section-grid="Kelly&amp;#x27;s Collectibles">
 <article class="card " data-kind="print" data-text="lot of 16 wildlife prints (incl. shadow play 6/50) mixed s/n; shadow play 6/50 kelly&#x27;s $7,500">
   
   <div class="name">Lot of 16 wildlife prints (incl. Shadow Play 6/50)</div>
@@ -631,6 +853,8 @@
   <a href="https://www.kellyscollectiblesmt.com/product/lot-of-16-vivi-crandall-wildlife-prints-framed-and-rolled/" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
+<section class="section-wrap theme-g601" data-theme="theme-g601">
 <h2 class="section" data-section="Gallery 601">Gallery 601</h2>
 <div class="grid" data-section-grid="Gallery 601">
 <article class="card " data-kind="print" data-text="basket case ed. 850 s/n gallery 601 $195">
@@ -670,6 +894,8 @@
   <a href="https://gallery601.com/product-category/artists/vivi-crandall/" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
+<section class="section-wrap theme-artusa" data-theme="theme-artusa">
 <h2 class="section" data-section="ArtUSA">ArtUSA</h2>
 <div class="grid" data-section-grid="ArtUSA">
 <article class="card " data-kind="print" data-text="apple dumplin&#x27; – rabbit 760 s/n artusa $245">
@@ -733,6 +959,8 @@
   <a href="https://artusa.com/product/new-generation-black-footed-ferrets/" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
+<section class="section-wrap theme-prints" data-theme="theme-prints">
 <h2 class="section" data-section="Prints.com">Prints.com</h2>
 <div class="grid" data-section-grid="Prints.com">
 <article class="card ap" data-kind="ap" data-text="night shift ap on paper ap prints.com $949.95">
@@ -784,8 +1012,9 @@
   <a href="https://www.prints.com/art.php?print_id=11253&amp;type=15" target="_blank" rel="noopener">Open listing →</a>
 </article>
 </div>
+</section>
 
-<footer>Open auctions: none as of 2026-09-01. Watch runs every 3 days @ 9am Mountain.</footer>
+<footer>Open auctions: none as of 2026-09-01. Watch runs every 3 days @ 9am Mountain. Live: https://spade-stack.github.io/vivi-crandall-for-sale/</footer>
 </main>
 <script>
 const q = document.getElementById('q');
@@ -800,9 +1029,8 @@ function apply() {
   });
   document.querySelectorAll('[data-section-grid]').forEach(grid => {
     const any = [...grid.querySelectorAll('.card')].some(c => !c.classList.contains('hidden'));
-    grid.classList.toggle('hidden', !any);
-    const h = grid.previousElementSibling;
-    if (h && h.classList.contains('section')) h.classList.toggle('hidden', !any);
+    const wrap = grid.closest('.section-wrap') || grid;
+    wrap.classList.toggle('hidden', !any);
   });
 }
 q.addEventListener('input', apply);
