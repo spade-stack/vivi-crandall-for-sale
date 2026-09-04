@@ -1,6 +1,6 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-09-01 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-09-04 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
 ## ★ Artist proofs
@@ -27,7 +27,9 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
 | Snow Blind – Cougar | — | Unknown | $799.99 BO | eBay | Mar 2 | [open](https://www.ebay.com/itm/397669330480) |
+| Buddy System – Wolves / Rams | — | Unknown | $799.99 BO | eBay | new | [open](https://www.ebay.com/itm/336775537256) |
 | Close Encounter – Grizzly | — | Unknown | $649.99 BO | eBay | Apr 22 | [open](https://www.ebay.com/itm/336547387514) |
+| Belly Deep and Blowin – Wolf | — | Unknown | $649.99 BO | eBay | new | [open](https://www.ebay.com/itm/820080880399) |
 | Night Watch | — | Unknown | $409.99 BO | eBay | Jun 9 | [open](https://www.ebay.com/itm/398047123953) |
 | Totem Pole – Owls | — | Unknown | $409.99 BO | eBay | May 29 | [open](https://www.ebay.com/itm/336609715148) |
 | Wascally Wabbit – Rabbit | — | Unknown | $399.99 BO | eBay | Aug 31 | [open](https://www.ebay.com/itm/398345547823) |
@@ -104,7 +106,11 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Indian Summer | Ed. 940 S/N | Unframed / framed opts | $239.95 | Prints.com | — | [open](https://www.prints.com/art.php?print_id=11253&type=15) |
 
 ## Open auctions
-None as of 2026-09-01 (HiBid, LiveAuctioneers, Invaluable, MutualArt, AuctionZip, Bidsquare, CTBids).
+None as of 2026-09-04 (HiBid, LiveAuctioneers, Invaluable, MutualArt, AuctionZip, Bidsquare, Heritage blocked/403, CTBids, estatesales.net).
 
 ## Watch (every 3 days @ 9am MT)
 Dealers + auction sites; open/current only.
+
+## Watch sources (every 3 days @ 9am MT)
+Dealers: eBay · Art Brokerage · Prints.com · ArtUSA · Gallery 601 · Kelly's · vivicrandall.com
+Auctions — REQUIRED full sweep every run (open lots only): HiBid · LiveAuctioneers · Invaluable · MutualArt · AuctionZip · Bidsquare · Heritage · estate / CTBids / estatesales · any other regional houses that surface for this artist
