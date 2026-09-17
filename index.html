@@ -294,817 +294,957 @@
   .chip.chip-default { border-color: #6b21a8; color: #c084fc; }
   .chip.chip-default.active { background: #3b2760; color: #c084fc; border-color: #c084fc; }
 
+
+  .theme-auction h2.section { color: #f472b6; border-left: 3px solid #f472b6; padding-left: 10px; }
+  .theme-auction .card {
+    background: linear-gradient(165deg, #1a0a14 0%, #2a1020 100%);
+    border-color: #be185d;
+    box-shadow: inset 0 0 0 1px #f472b622, 0 0 24px #f472b610;
+  }
+  .theme-auction .card .price { color: #f472b6; }
+  .theme-auction .badge { background: #831843; color: #f472b6; }
+  .theme-auction .card a { color: #f472b6; }
+  .theme-auction .section-wrap {
+    background: linear-gradient(90deg, #f472b614, transparent 55%);
+    border: 1px solid #be185d55;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-auction { border-color: #be185d; color: #f472b6; }
+  .chip.chip-auction.active { background: #831843; color: #f472b6; border-color: #f472b6; }
+
 </style>
 </head>
 <body>
 <header>
-  <h1>Vivi Crandall — currently for sale</h1>
-  <p>Updated 2026-09-07 · active listings only · no plates · 69 pieces · color by category · price high→low</p>
-  <div class="filters">
-    <input id="q" type="search" placeholder="Filter by name, number, source…" />
-    <button class="chip active" data-filter="all" type="button">All</button>
-    <button class="chip chip-ap" data-filter="ap" type="button">Artist proofs</button>
-    <button class="chip chip-original" data-filter="original" type="button">Originals</button>
-    <button class="chip chip-print" data-filter="print" type="button">Prints</button>
-  </div>
-  <ul class="legend">
-    <li><i style="background:#fbbf24"></i> Artist proofs</li>
-    <li><i style="background:#fb7185"></i> Originals</li>
-    <li><i style="background:#38bdf8"></i> Newest eBay</li>
-    <li><i style="background:#2dd4bf"></i> Other eBay</li>
-    <li><i style="background:#c084fc"></i> Art Brokerage</li>
-    <li><i style="background:#fb923c"></i> Kelly's</li>
-    <li><i style="background:#4ade80"></i> Gallery 601</li>
-    <li><i style="background:#818cf8"></i> ArtUSA</li>
-    <li><i style="background:#f472b6"></i> Prints.com</li>
-  </ul>
+<h1>Vivi Crandall — for sale</h1>
+<p>Updated 2026-09-17 Mountain · active buyable only · no plates · eBay rows last live-verified 2026-09-07 (recheck blocked)</p>
+<ul class="legend">
+<li><i style="background:#fbbf24"></i> Artist proofs</li>
+<li><i style="background:#fb7185"></i> Originals</li>
+<li><i style="background:#38bdf8"></i> Newest eBay</li>
+<li><i style="background:#2dd4bf"></i> Other eBay</li>
+<li><i style="background:#c084fc"></i> Art Brokerage</li>
+<li><i style="background:#fb923c"></i> Kelly's</li>
+<li><i style="background:#4ade80"></i> Gallery 601</li>
+<li><i style="background:#818cf8"></i> ArtUSA</li>
+<li><i style="background:#f9a8d4"></i> Prints.com</li>
+<li><i style="background:#f472b6"></i> Open auctions</li>
+</ul>
+<div class="filters">
+<input id="q" type="search" placeholder="Filter by title, number, source…" />
+<button class="chip active" data-filter="all">All</button>
+<button class="chip chip-ap" data-filter="ap">Artist proofs</button>
+<button class="chip chip-original" data-filter="original">Originals</button>
+<button class="chip chip-print" data-filter="print">Prints</button>
+<button class="chip chip-auction" data-filter="auction">Auctions</button>
+</div>
 </header>
 <main>
+
 <section class="section-wrap theme-ap" data-theme="theme-ap"><h2 class="section" data-section="★ Artist proofs">★ Artist proofs</h2>
-<div class="grid" data-section-grid="★ Artist proofs">
+<div class="grid" data-section-grid>
 <article class="card ap" data-kind="ap" data-text="shadow play / shadowplay (1986) mule deer **ap 6/50** yes (framed &amp; matted) ebay (kelly&#x27;s) $2,000 bo new">
-  <span class="badge">Artist proof</span>
+<span class="badge">Artist proof</span>
 <div class="name">Shadow Play / Shadowplay (1986) mule deer</div>
-  <div class="price">$2,000 BO</div>
-  <div class="meta">
-    <span>Number</span><b>AP 6/50</b>
-    <span>Framed</span><b>Yes (framed &amp; matted)</b>
-    <span>Source</span><b>eBay (Kelly&#x27;s)</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/336630129436" target="_blank" rel="noopener">Open listing →</a>
+<div class="price">$2,000 BO</div>
+<div class="meta">
+<span>Number</span><b>AP 6/50</b>
+<span>Framed</span><b>Yes (framed &amp; matted)</b>
+<span>Source</span><b>eBay (Kelly&#x27;s)</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/336630129436" target="_blank" rel="noopener">Open listing →</a>
 </article>
+
 <article class="card ap" data-kind="ap" data-text="night shift ap on paper ap unknown prints.com $949.95 —">
-  <span class="badge">Artist proof</span>
+<span class="badge">Artist proof</span>
 <div class="name">Night Shift AP on Paper</div>
-  <div class="price">$949.95</div>
-  <div class="meta">
-    <span>Number</span><b>AP</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Prints.com</b>
-  </div>
-  <a href="https://www.prints.com/prints.php/Vivi_Crandall/Night_Shift/?artist_id=2367&amp;print_id=23085" target="_blank" rel="noopener">Open listing →</a>
+<div class="price">$949.95</div>
+<div class="meta">
+<span>Number</span><b>AP</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Prints.com</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.prints.com/prints.php/Vivi_Crandall/Night_Shift/?artist_id=2367&amp;print_id=23085" target="_blank" rel="noopener">Open listing →</a>
 </article>
+
 <article class="card ap" data-kind="ap" data-text="buddy system artist print #400/760 matte ebay $680 bo jan 6">
-  <span class="badge">Artist proof</span>
+<span class="badge">Artist proof</span>
 <div class="name">Buddy System Artist Print</div>
-  <div class="price">$680 BO</div>
-  <div class="meta">
-    <span>Number</span><b>#400/760</b>
-    <span>Framed</span><b>Matte</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jan 6</b>
-  </div>
-  <a href="https://www.ebay.com/itm/296927806785" target="_blank" rel="noopener">Open listing →</a>
+<div class="price">$680 BO</div>
+<div class="meta">
+<span>Number</span><b>#400/760</b>
+<span>Framed</span><b>Matte</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jan 6</b>
+</div>
+<a href="https://www.ebay.com/itm/296927806785" target="_blank" rel="noopener">Open listing →</a>
 </article>
+
 <article class="card ap" data-kind="ap" data-text="bunny berries ap ap unknown ebay $475 bin jun 25">
-  <span class="badge">Artist proof</span>
+<span class="badge">Artist proof</span>
 <div class="name">Bunny Berries AP</div>
-  <div class="price">$475 BIN</div>
-  <div class="meta">
-    <span>Number</span><b>AP</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jun 25</b>
-  </div>
-  <a href="https://www.ebay.com/itm/284488585547" target="_blank" rel="noopener">Open listing →</a>
+<div class="price">$475 BIN</div>
+<div class="meta">
+<span>Number</span><b>AP</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jun 25</b>
+</div>
+<a href="https://www.ebay.com/itm/284488585547" target="_blank" rel="noopener">Open listing →</a>
 </article>
+
 <article class="card ap" data-kind="ap" data-text="foxfire ap on paper ap on paper unknown ebay (prints.com) $449.99 bo mar 19">
-  <span class="badge">Artist proof</span>
+<span class="badge">Artist proof</span>
 <div class="name">Foxfire AP on Paper</div>
-  <div class="price">$449.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>AP on paper</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay (prints.com)</b>
-    <span>Listed</span><b>Mar 19</b>
-  </div>
-  <a href="https://www.ebay.com/itm/358352604889" target="_blank" rel="noopener">Open listing →</a>
+<div class="price">$449.99 BO</div>
+<div class="meta">
+<span>Number</span><b>AP on paper</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay (prints.com)</b>
+<span>Listed</span><b>Mar 19</b>
+</div>
+<a href="https://www.ebay.com/itm/358352604889" target="_blank" rel="noopener">Open listing →</a>
 </article>
+
 <article class="card ap" data-kind="ap" data-text="pickled tink ap (1998) ap (#377/760) unknown ebay $149.99 bo aug 5">
-  <span class="badge">Artist proof</span>
+<span class="badge">Artist proof</span>
 <div class="name">Pickled Tink AP (1998)</div>
-  <div class="price">$149.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>AP (#377/760)</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Aug 5</b>
-  </div>
-  <a href="https://www.ebay.com/itm/236320849090" target="_blank" rel="noopener">Open listing →</a>
+<div class="price">$149.99 BO</div>
+<div class="meta">
+<span>Number</span><b>AP (#377/760)</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Aug 5</b>
+</div>
+<a href="https://www.ebay.com/itm/236320849090" target="_blank" rel="noopener">Open listing →</a>
 </article>
+
 <article class="card ap" data-kind="ap" data-text="bunny berries ap (1994) ap ed. of 75 yes art brokerage inquire ~$1,200 —">
-  <span class="badge">Artist proof</span>
+<span class="badge">Artist proof</span>
 <div class="name">Bunny Berries AP (1994)</div>
-  <div class="price">Inquire ~$1,200</div>
-  <div class="meta">
-    <span>Number</span><b>AP ed. of 75</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>Art Brokerage</b>
-  </div>
-  <a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
-</article>
+<div class="price">Inquire ~$1,200</div>
+<div class="meta">
+<span>Number</span><b>AP ed. of 75</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Art Brokerage</b>
+<span>Listed</span><b>—</b>
 </div>
-</section>
-<section class="section-wrap theme-original" data-theme="theme-original"><h2 class="section" data-section="Original paintings">Original paintings</h2>
-<div class="grid" data-section-grid="Original paintings">
-<article class="card " data-kind="original" data-text="rams in a mountain landscape original oil on canvas unknown ebay $4,450 bo jun 29">
-  <div class="name">Rams in a Mountain Landscape</div>
-  <div class="price">$4,450 BO</div>
-  <div class="meta">
-    <span>Number</span><b>Original oil on canvas</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jun 29</b>
-  </div>
-  <a href="https://www.ebay.com/itm/306373740237" target="_blank" rel="noopener">Open listing →</a>
+<a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
 </article>
-<article class="card " data-kind="original" data-text="untitled cougar portrait (1996) original acrylic on canvas yes art brokerage inquire ~$2,000 —">
-  <div class="name">Untitled Cougar Portrait (1996)</div>
-  <div class="price">Inquire ~$2,000</div>
-  <div class="meta">
-    <span>Number</span><b>Original acrylic on canvas</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>Art Brokerage</b>
-  </div>
-  <a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
-</article>
-</div>
-</section>
-<section class="section-wrap theme-ebay-new" data-theme="theme-ebay-new"><h2 class="section" data-section="Newest eBay (prints.com)">Newest eBay (prints.com)</h2>
-<div class="grid" data-section-grid="Newest eBay (prints.com)">
-<article class="card " data-kind="print" data-text="buddy system – wolves / rams — unknown ebay $799.99 bo new">
-  <div class="name">Buddy System – Wolves / Rams</div>
-  <div class="price">$799.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/336775537256" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="belly deep and blowin – wolf — unknown ebay $649.99 bo new">
-  <div class="name">Belly Deep and Blowin – Wolf</div>
-  <div class="price">$649.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/820080880399" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="close encounter – grizzly — unknown ebay $649.99 bo apr 22">
-  <div class="name">Close Encounter – Grizzly</div>
-  <div class="price">$649.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Apr 22</b>
-  </div>
-  <a href="https://www.ebay.com/itm/336547387514" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="night watch — unknown ebay $409.99 bo jun 9">
-  <div class="name">Night Watch</div>
-  <div class="price">$409.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jun 9</b>
-  </div>
-  <a href="https://www.ebay.com/itm/398047123953" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="totem pole – owls — unknown ebay $409.99 bo may 29">
-  <div class="name">Totem Pole – Owls</div>
-  <div class="price">$409.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>May 29</b>
-  </div>
-  <a href="https://www.ebay.com/itm/336609715148" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="cotton candy – deer — unknown ebay $399.99 bo mar 19">
-  <div class="name">Cotton Candy – Deer</div>
-  <div class="price">$399.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Mar 19</b>
-  </div>
-  <a href="https://www.ebay.com/itm/397737750555" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="wascally wabbit – rabbit — unknown ebay $399.99 bo aug 31">
-  <div class="name">Wascally Wabbit – Rabbit</div>
-  <div class="price">$399.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Aug 31</b>
-  </div>
-  <a href="https://www.ebay.com/itm/398345547823" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="dew drop inn – owl — unknown ebay $379.99 bo jun 9">
-  <div class="name">Dew Drop Inn – Owl</div>
-  <div class="price">$379.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jun 9</b>
-  </div>
-  <a href="https://www.ebay.com/itm/398047123616" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="fandango – swan — unknown ebay $359.99 bo apr 30">
-  <div class="name">Fandango – Swan</div>
-  <div class="price">$359.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Apr 30</b>
-  </div>
-  <a href="https://www.ebay.com/itm/336561697956" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="hot cross buns – bears — unknown ebay $349.99 bo mar 2">
-  <div class="name">Hot Cross Buns – Bears</div>
-  <div class="price">$349.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Mar 2</b>
-  </div>
-  <a href="https://www.ebay.com/itm/397669330424" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="bull rush – buffalo — unknown ebay $299.99 bo mar 8">
-  <div class="name">Bull Rush – Buffalo</div>
-  <div class="price">$299.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Mar 8</b>
-  </div>
-  <a href="https://www.ebay.com/itm/336470130008" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="foxfire – fox — unknown ebay $299.99 bo mar 19">
-  <div class="name">Foxfire – Fox</div>
-  <div class="price">$299.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Mar 19</b>
-  </div>
-  <a href="https://www.ebay.com/itm/397737750621" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="lean cuisine – coyote — unknown ebay $299.99 bo jul 28">
-  <div class="name">Lean Cuisine – Coyote</div>
-  <div class="price">$299.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jul 28</b>
-  </div>
-  <a href="https://www.ebay.com/itm/398225824569" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="billy club – mountain goats — unknown ebay $279.99 bo aug 27">
-  <div class="name">Billy Club – Mountain Goats</div>
-  <div class="price">$279.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Aug 27</b>
-  </div>
-  <a href="https://www.ebay.com/itm/398331258374" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="skinny dippin – moose — unknown ebay $249.99 bo mar 1">
-  <div class="name">Skinny Dippin – Moose</div>
-  <div class="price">$249.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Mar 1</b>
-  </div>
-  <a href="https://www.ebay.com/itm/397665942089" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="finders keepers – wolves — unknown ebay $239.99 bo apr 24">
-  <div class="name">Finders Keepers – Wolves</div>
-  <div class="price">$239.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Apr 24</b>
-  </div>
-  <a href="https://www.ebay.com/itm/358484355453" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="tunnel of love – bobcats — unknown ebay $199.99 bo apr 22">
-  <div class="name">Tunnel of Love – Bobcats</div>
-  <div class="price">$199.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Apr 22</b>
-  </div>
-  <a href="https://www.ebay.com/itm/358476550470" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="running on empty – cougar — unknown ebay $149.99 bo jul 15">
-  <div class="name">Running on Empty – Cougar</div>
-  <div class="price">$149.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jul 15</b>
-  </div>
-  <a href="https://www.ebay.com/itm/358801835506" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="wash bears – raccoons — unknown ebay $138.99 bo may 29">
-  <div class="name">Wash Bears – Raccoons</div>
-  <div class="price">$138.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>May 29</b>
-  </div>
-  <a href="https://www.ebay.com/itm/358616064406" target="_blank" rel="noopener">Open listing →</a>
-</article>
-</div>
-</section>
-<section class="section-wrap theme-ebay-other" data-theme="theme-ebay-other"><h2 class="section" data-section="Other eBay S/N prints">Other eBay S/N prints</h2>
-<div class="grid" data-section-grid="Other eBay S/N prints">
-<article class="card " data-kind="print" data-text="footloose (1985) 40×24 — yes ebay $750 bo may 25">
-  <div class="name">Footloose (1985) 40×24</div>
-  <div class="price">$750 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>May 25</b>
-  </div>
-  <a href="https://www.ebay.com/itm/226162457012" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="bunny berries 200/760 unknown ebay $525 bo jan 29">
-  <div class="name">Bunny Berries</div>
-  <div class="price">$525 BO</div>
-  <div class="meta">
-    <span>Number</span><b>200/760</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Jan 29</b>
-  </div>
-  <a href="https://www.ebay.com/itm/263465869147" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="snow blind – cougar — yes ebay $500 bo new">
-  <div class="name">Snow Blind – Cougar</div>
-  <div class="price">$500 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/166131386772" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="swat team – cats — pictured framed ebay $425 bo new">
-  <div class="name">Swat Team – Cats</div>
-  <div class="price">$425 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Pictured framed</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/388603976986" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="cotton candy (1986) 369/760 unknown ebay $395 bo may 1">
-  <div class="name">Cotton Candy (1986)</div>
-  <div class="price">$395 BO</div>
-  <div class="meta">
-    <span>Number</span><b>369/760</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>May 1</b>
-  </div>
-  <a href="https://www.ebay.com/itm/256914215396" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="totem pole – owls 343/760 unknown ebay $345 bo mar 20">
-  <div class="name">Totem Pole – Owls</div>
-  <div class="price">$345 BO</div>
-  <div class="meta">
-    <span>Number</span><b>343/760</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Mar 20</b>
-  </div>
-  <a href="https://www.ebay.com/itm/298145049960" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="wash bears – raccoons 540/760 yes ebay $345 bin new">
-  <div class="name">Wash Bears – Raccoons</div>
-  <div class="price">$345 BIN</div>
-  <div class="meta">
-    <span>Number</span><b>540/760</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/266614987892" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="fuzzball – rabbit — unknown ebay $316 bin may 3">
-  <div class="name">Fuzzball – Rabbit</div>
-  <div class="price">$316 BIN</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>May 3</b>
-  </div>
-  <a href="https://www.ebay.com/itm/146559075484" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="flashdance – deer 246/670 unknown ebay $300 bo new">
-  <div class="name">Flashdance – Deer</div>
-  <div class="price">$300 BO</div>
-  <div class="meta">
-    <span>Number</span><b>246/670</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/256901840410" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="indian summer — unknown ebay $300 bo feb 9">
-  <div class="name">Indian Summer</div>
-  <div class="price">$300 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Feb 9</b>
-  </div>
-  <a href="https://www.ebay.com/itm/284179048595" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="foxfire 166/670 yes ebay $299.99 bo apr 26">
-  <div class="name">Foxfire</div>
-  <div class="price">$299.99 BO</div>
-  <div class="meta">
-    <span>Number</span><b>166/670</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Apr 26</b>
-  </div>
-  <a href="https://www.ebay.com/itm/326104763355" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="totem pole 60/760 unknown ebay $295 bo mar 14">
-  <div class="name">Totem Pole</div>
-  <div class="price">$295 BO</div>
-  <div class="meta">
-    <span>Number</span><b>60/760</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Mar 14</b>
-  </div>
-  <a href="https://www.ebay.com/itm/188162900242" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="bull rush 245/760 unknown ebay $275 bo dec 21">
-  <div class="name">Bull Rush</div>
-  <div class="price">$275 BO</div>
-  <div class="meta">
-    <span>Number</span><b>245/760</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Dec 21</b>
-  </div>
-  <a href="https://www.ebay.com/itm/177695920868" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="kits &amp; kaboodle — unknown ebay $255 bo new">
-  <div class="name">Kits &amp; Kaboodle</div>
-  <div class="price">$255 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/294186707664" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="billy club 425/940 unknown ebay $250 bo dec 21">
-  <div class="name">Billy Club</div>
-  <div class="price">$250 BO</div>
-  <div class="meta">
-    <span>Number</span><b>425/940</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Dec 21</b>
-  </div>
-  <a href="https://www.ebay.com/itm/177695954724" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="running on empty (1989) 230/1835 unknown ebay $250 bo aug 8">
-  <div class="name">Running on Empty (1989)</div>
-  <div class="price">$250 BO</div>
-  <div class="meta">
-    <span>Number</span><b>230/1835</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Aug 8</b>
-  </div>
-  <a href="https://www.ebay.com/itm/128016918456" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="dew drop inn – owl 782/850 yes (pictured) ebay $249 bo new">
-  <div class="name">Dew Drop Inn – Owl</div>
-  <div class="price">$249 BO</div>
-  <div class="meta">
-    <span>Number</span><b>782/850</b>
-    <span>Framed</span><b>Yes (pictured)</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/396201651059" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="skinny dippin – moose — unknown ebay $245 bo new">
-  <div class="name">Skinny Dippin – Moose</div>
-  <div class="price">$245 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/294817511042" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="wash bears — no ebay $240 bo feb 4">
-  <div class="name">Wash Bears</div>
-  <div class="price">$240 BO</div>
-  <div class="meta">
-    <span>Number</span><b>—</b>
-    <span>Framed</span><b>No</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>Feb 4</b>
-  </div>
-  <a href="https://www.ebay.com/itm/284172848774" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="apple dumplin – rabbit s/n litho unknown ebay $196 bin new">
-  <div class="name">Apple Dumplin – Rabbit</div>
-  <div class="price">$196 BIN</div>
-  <div class="meta">
-    <span>Number</span><b>S/N litho</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/147107392278" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="wash bears ltd – raccoons s/n litho unknown ebay $180 bin new">
-  <div class="name">Wash Bears Ltd – Raccoons</div>
-  <div class="price">$180 BIN</div>
-  <div class="meta">
-    <span>Number</span><b>S/N litho</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/1471117770047" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="hot date s/n unknown ebay $155 bo new">
-  <div class="name">Hot Date</div>
-  <div class="price">$155 BO</div>
-  <div class="meta">
-    <span>Number</span><b>S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/295741500341" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="lean cuisine – coyote s/n unknown ebay $155 bo new">
-  <div class="name">Lean Cuisine – Coyote</div>
-  <div class="price">$155 BO</div>
-  <div class="meta">
-    <span>Number</span><b>S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/294817634766" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="kits and kaboodle (1991) s/n unknown ebay $90 bin new">
-  <div class="name">Kits And Kaboodle (1991)</div>
-  <div class="price">$90 BIN</div>
-  <div class="meta">
-    <span>Number</span><b>S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>eBay</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.ebay.com/itm/354091328693" target="_blank" rel="noopener">Open listing →</a>
-</article>
-</div>
-</section>
-<section class="section-wrap theme-brokerage" data-theme="theme-brokerage"><h2 class="section" data-section="Art Brokerage">Art Brokerage</h2>
-<div class="grid" data-section-grid="Art Brokerage">
-<article class="card " data-kind="print" data-text="fuzzball hand signed litho ed. 850 yes art brokerage inquire ~$1,200 —">
-  <div class="name">Fuzzball</div>
-  <div class="price">Inquire ~$1,200</div>
-  <div class="meta">
-    <span>Number</span><b>Hand signed litho ed. 850</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>Art Brokerage</b>
-  </div>
-  <a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="lady in red (1987) plate-signed litho ed. 670 yes art brokerage inquire —">
-  <div class="name">Lady in Red (1987)</div>
-  <div class="price">Inquire</div>
-  <div class="meta">
-    <span>Number</span><b>Plate-signed litho ed. 670</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>Art Brokerage</b>
-  </div>
-  <a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="royal flush (1992) hand signed litho ed. 670 yes art brokerage inquire ~$1,800 —">
-  <div class="name">Royal Flush (1992)</div>
-  <div class="price">Inquire ~$1,800</div>
-  <div class="meta">
-    <span>Number</span><b>Hand signed litho ed. 670</b>
-    <span>Framed</span><b>Yes</b>
-    <span>Source</span><b>Art Brokerage</b>
-  </div>
-  <a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
-</article>
-</div>
-</section>
-<section class="section-wrap theme-kellys" data-theme="theme-kellys"><h2 class="section" data-section="Kelly&#x27;s Collectibles">Kelly&#x27;s Collectibles</h2>
-<div class="grid" data-section-grid="Kelly&#x27;s Collectibles">
-<article class="card " data-kind="print" data-text="lot of 16 wildlife prints (incl. another shadow play ref; see ebay ap 6/50 above) mixed s/n; shadow play 6/50 mixed (8/8) kelly&#x27;s $7,500 —">
-  <div class="name">Lot of 16 wildlife prints (incl. another Shadow Play ref; see eBay AP 6/50 above)</div>
-  <div class="price">$7,500</div>
-  <div class="meta">
-    <span>Number</span><b>Mixed S/N; Shadow Play 6/50</b>
-    <span>Framed</span><b>Mixed (8/8)</b>
-    <span>Source</span><b>Kelly&#x27;s</b>
-  </div>
-  <a href="https://www.kellyscollectiblesmt.com/product/lot-of-16-vivi-crandall-wildlife-prints-framed-and-rolled/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-</div>
-</section>
-<section class="section-wrap theme-g601" data-theme="theme-g601"><h2 class="section" data-section="Gallery 601">Gallery 601</h2>
-<div class="grid" data-section-grid="Gallery 601">
-<article class="card " data-kind="print" data-text="wash bears ed. 760 s/n unknown gallery 601 $215 —">
-  <div class="name">Wash Bears</div>
-  <div class="price">$215</div>
-  <div class="meta">
-    <span>Number</span><b>Ed. 760 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Gallery 601</b>
-  </div>
-  <a href="https://gallery601.com/shop/subjects/animals/wash-bears/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="basket case ed. 850 s/n unknown gallery 601 $195 —">
-  <div class="name">Basket Case</div>
-  <div class="price">$195</div>
-  <div class="meta">
-    <span>Number</span><b>Ed. 850 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Gallery 601</b>
-  </div>
-  <a href="https://gallery601.com/shop/subjects/animals/rabbits/basket-case/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="indian summer unknown unknown gallery 601 $195 —">
-  <div class="name">Indian Summer</div>
-  <div class="price">$195</div>
-  <div class="meta">
-    <span>Number</span><b>Unknown</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Gallery 601</b>
-  </div>
-  <a href="https://gallery601.com/shop/subjects/animals/indian-summer-2/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-</div>
-</section>
-<section class="section-wrap theme-artusa" data-theme="theme-artusa"><h2 class="section" data-section="ArtUSA">ArtUSA</h2>
-<div class="grid" data-section-grid="ArtUSA">
-<article class="card " data-kind="print" data-text="fuzzball – rabbit 850 s/n unknown artusa $395 —">
-  <div class="name">Fuzzball – Rabbit</div>
-  <div class="price">$395</div>
-  <div class="meta">
-    <span>Number</span><b>850 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>ArtUSA</b>
-  </div>
-  <a href="https://artusa.com/product/fuzzball-rabbit/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="running on empty 1835 s/n unknown artusa $330 —">
-  <div class="name">Running on Empty</div>
-  <div class="price">$330</div>
-  <div class="meta">
-    <span>Number</span><b>1835 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>ArtUSA</b>
-  </div>
-  <a href="https://artusa.com/product/running-on-empty/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="apple dumplin&#x27; – rabbit 760 s/n unknown artusa $245 —">
-  <div class="name">Apple Dumplin&#x27; – Rabbit</div>
-  <div class="price">$245</div>
-  <div class="meta">
-    <span>Number</span><b>760 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>ArtUSA</b>
-  </div>
-  <a href="https://artusa.com/product/apple-dumplin-rabbit/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="wash bears ltd – raccoons 760 s/n unknown artusa $225 —">
-  <div class="name">Wash Bears Ltd – Raccoons</div>
-  <div class="price">$225</div>
-  <div class="meta">
-    <span>Number</span><b>760 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>ArtUSA</b>
-  </div>
-  <a href="https://artusa.com/product/wash-bears-ltd-raccoons-2/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="new generation – ferrets 760 s/n unknown artusa on request —">
-  <div class="name">New Generation – Ferrets</div>
-  <div class="price">On request</div>
-  <div class="meta">
-    <span>Number</span><b>760 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>ArtUSA</b>
-  </div>
-  <a href="https://artusa.com/product/new-generation-black-footed-ferrets/" target="_blank" rel="noopener">Open listing →</a>
-</article>
-</div>
-</section>
-<section class="section-wrap theme-prints" data-theme="theme-prints"><h2 class="section" data-section="Prints.com">Prints.com</h2>
-<div class="grid" data-section-grid="Prints.com">
-<article class="card " data-kind="print" data-text="night shift ap on paper ap unknown prints.com $949.95 —">
-  <div class="name">Night Shift AP on Paper</div>
-  <div class="price">$949.95</div>
-  <div class="meta">
-    <span>Number</span><b>AP</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Prints.com</b>
-  </div>
-  <a href="https://www.prints.com/prints.php/Vivi_Crandall/Night_Shift/?artist_id=2367&amp;print_id=23085" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="shangrila – figurative ed. 940 s/n unknown prints.com $379.95 new">
-  <div class="name">Shangrila – Figurative</div>
-  <div class="price">$379.95</div>
-  <div class="meta">
-    <span>Number</span><b>Ed. 940 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Prints.com</b>
-    <span>Listed</span><b>new</b>
-  </div>
-  <a href="https://www.prints.com/art.php/Vivi_Crandall/?artist_id=2367&amp;page=1-98-0--" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="billy club – mountain goats ed. 940 s/n unknown prints.com $279.95 —">
-  <div class="name">Billy Club – Mountain Goats</div>
-  <div class="price">$279.95</div>
-  <div class="meta">
-    <span>Number</span><b>Ed. 940 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Prints.com</b>
-  </div>
-  <a href="https://www.prints.com/prints.php/Vivi_Crandall/Billy_Club_-_Mountain_Goats/?artist_id=2367&amp;print_id=4022" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="finders keepers – wolves ed. 670 s/n unknown prints.com $239.95 —">
-  <div class="name">Finders Keepers – Wolves</div>
-  <div class="price">$239.95</div>
-  <div class="meta">
-    <span>Number</span><b>Ed. 670 S/N</b>
-    <span>Framed</span><b>Unknown</b>
-    <span>Source</span><b>Prints.com</b>
-  </div>
-  <a href="https://www.prints.com/prints.php/Vivi_Crandall/Finders_Keepers_-_Wolves/?artist_id=2367&amp;print_id=22443" target="_blank" rel="noopener">Open listing →</a>
-</article>
-<article class="card " data-kind="print" data-text="indian summer ed. 940 s/n unframed / framed opts prints.com $239.95 —">
-  <div class="name">Indian Summer</div>
-  <div class="price">$239.95</div>
-  <div class="meta">
-    <span>Number</span><b>Ed. 940 S/N</b>
-    <span>Framed</span><b>Unframed / framed opts</b>
-    <span>Source</span><b>Prints.com</b>
-  </div>
-  <a href="https://www.prints.com/art.php?print_id=11253&amp;type=15" target="_blank" rel="noopener">Open listing →</a>
-</article>
+
 </div>
 </section>
 
-<footer>Open auctions: none as of 2026-09-07. Watch runs every 3 days @ 9am Mountain. Live: https://spade-stack.github.io/vivi-crandall-for-sale/</footer>
+<section class="section-wrap theme-original" data-theme="theme-original"><h2 class="section" data-section="Original paintings">Original paintings</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="original" data-text="rams in a mountain landscape original oil on canvas unknown ebay $4,450 bo jun 29">
+<span class="badge">Original</span>
+<div class="name">Rams in a Mountain Landscape</div>
+<div class="price">$4,450 BO</div>
+<div class="meta">
+<span>Number</span><b>Original oil on canvas</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jun 29</b>
+</div>
+<a href="https://www.ebay.com/itm/306373740237" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-ebay-new" data-theme="theme-ebay-new"><h2 class="section" data-section="Newest eBay (prints.com)">Newest eBay (prints.com)</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="print" data-text="buddy system – wolves / rams — unknown ebay $799.99 bo new">
+<div class="name">Buddy System – Wolves / Rams</div>
+<div class="price">$799.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/336775537256" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="belly deep and blowin – wolf — unknown ebay $649.99 bo new">
+<div class="name">Belly Deep and Blowin – Wolf</div>
+<div class="price">$649.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/820080880399" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="close encounter – grizzly — unknown ebay $649.99 bo apr 22">
+<div class="name">Close Encounter – Grizzly</div>
+<div class="price">$649.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Apr 22</b>
+</div>
+<a href="https://www.ebay.com/itm/336547387514" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="night watch — unknown ebay $409.99 bo jun 9">
+<div class="name">Night Watch</div>
+<div class="price">$409.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jun 9</b>
+</div>
+<a href="https://www.ebay.com/itm/398047123953" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="totem pole – owls — unknown ebay $409.99 bo may 29">
+<div class="name">Totem Pole – Owls</div>
+<div class="price">$409.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>May 29</b>
+</div>
+<a href="https://www.ebay.com/itm/336609715148" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="cotton candy – deer — unknown ebay $399.99 bo mar 19">
+<div class="name">Cotton Candy – Deer</div>
+<div class="price">$399.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Mar 19</b>
+</div>
+<a href="https://www.ebay.com/itm/397737750555" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="wascally wabbit – rabbit — unknown ebay $399.99 bo aug 31">
+<div class="name">Wascally Wabbit – Rabbit</div>
+<div class="price">$399.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Aug 31</b>
+</div>
+<a href="https://www.ebay.com/itm/398345547823" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="dew drop inn – owl — unknown ebay $379.99 bo jun 9">
+<div class="name">Dew Drop Inn – Owl</div>
+<div class="price">$379.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jun 9</b>
+</div>
+<a href="https://www.ebay.com/itm/398047123616" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="fandango – swan — unknown ebay $359.99 bo apr 30">
+<div class="name">Fandango – Swan</div>
+<div class="price">$359.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Apr 30</b>
+</div>
+<a href="https://www.ebay.com/itm/336561697956" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="hot cross buns – bears — unknown ebay $349.99 bo mar 2">
+<div class="name">Hot Cross Buns – Bears</div>
+<div class="price">$349.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Mar 2</b>
+</div>
+<a href="https://www.ebay.com/itm/397669330424" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="bull rush – buffalo — unknown ebay $299.99 bo mar 8">
+<div class="name">Bull Rush – Buffalo</div>
+<div class="price">$299.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Mar 8</b>
+</div>
+<a href="https://www.ebay.com/itm/336470130008" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="foxfire – fox — unknown ebay $299.99 bo mar 19">
+<div class="name">Foxfire – Fox</div>
+<div class="price">$299.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Mar 19</b>
+</div>
+<a href="https://www.ebay.com/itm/397737750621" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="lean cuisine – coyote — unknown ebay $299.99 bo jul 28">
+<div class="name">Lean Cuisine – Coyote</div>
+<div class="price">$299.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jul 28</b>
+</div>
+<a href="https://www.ebay.com/itm/398225824569" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="billy club – mountain goats — unknown ebay $279.99 bo aug 27">
+<div class="name">Billy Club – Mountain Goats</div>
+<div class="price">$279.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Aug 27</b>
+</div>
+<a href="https://www.ebay.com/itm/398331258374" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="skinny dippin – moose — unknown ebay $249.99 bo mar 1">
+<div class="name">Skinny Dippin – Moose</div>
+<div class="price">$249.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Mar 1</b>
+</div>
+<a href="https://www.ebay.com/itm/397665942089" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="finders keepers – wolves — unknown ebay $239.99 bo apr 24">
+<div class="name">Finders Keepers – Wolves</div>
+<div class="price">$239.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Apr 24</b>
+</div>
+<a href="https://www.ebay.com/itm/358484355453" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="tunnel of love – bobcats — unknown ebay $199.99 bo apr 22">
+<div class="name">Tunnel of Love – Bobcats</div>
+<div class="price">$199.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Apr 22</b>
+</div>
+<a href="https://www.ebay.com/itm/358476550470" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="running on empty – cougar — unknown ebay $149.99 bo jul 15">
+<div class="name">Running on Empty – Cougar</div>
+<div class="price">$149.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jul 15</b>
+</div>
+<a href="https://www.ebay.com/itm/358801835506" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="wash bears – raccoons — unknown ebay $138.99 bo may 29">
+<div class="name">Wash Bears – Raccoons</div>
+<div class="price">$138.99 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>May 29</b>
+</div>
+<a href="https://www.ebay.com/itm/358616064406" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-ebay-other" data-theme="theme-ebay-other"><h2 class="section" data-section="Other eBay S/N prints">Other eBay S/N prints</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="print" data-text="footloose (1985) 40×24 — yes ebay $750 bo may 25">
+<div class="name">Footloose (1985) 40×24</div>
+<div class="price">$750 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>May 25</b>
+</div>
+<a href="https://www.ebay.com/itm/226162457012" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="bunny berries 200/760 unknown ebay $525 bo jan 29">
+<div class="name">Bunny Berries</div>
+<div class="price">$525 BO</div>
+<div class="meta">
+<span>Number</span><b>200/760</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Jan 29</b>
+</div>
+<a href="https://www.ebay.com/itm/263465869147" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="snow blind – cougar — yes ebay $500 bo new">
+<div class="name">Snow Blind – Cougar</div>
+<div class="price">$500 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/166131386772" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="swat team – cats — pictured framed ebay $425 bo new">
+<div class="name">Swat Team – Cats</div>
+<div class="price">$425 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Pictured framed</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/388603976986" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="cotton candy (1986) 369/760 unknown ebay $395 bo may 1">
+<div class="name">Cotton Candy (1986)</div>
+<div class="price">$395 BO</div>
+<div class="meta">
+<span>Number</span><b>369/760</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>May 1</b>
+</div>
+<a href="https://www.ebay.com/itm/256914215396" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="totem pole – owls 343/760 unknown ebay $345 bo mar 20">
+<div class="name">Totem Pole – Owls</div>
+<div class="price">$345 BO</div>
+<div class="meta">
+<span>Number</span><b>343/760</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Mar 20</b>
+</div>
+<a href="https://www.ebay.com/itm/298145049960" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="wash bears – raccoons 540/760 yes ebay $345 bin new">
+<div class="name">Wash Bears – Raccoons</div>
+<div class="price">$345 BIN</div>
+<div class="meta">
+<span>Number</span><b>540/760</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/266614987892" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="fuzzball – rabbit — unknown ebay $316 bin may 3">
+<div class="name">Fuzzball – Rabbit</div>
+<div class="price">$316 BIN</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>May 3</b>
+</div>
+<a href="https://www.ebay.com/itm/146559075484" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="flashdance – deer 246/670 unknown ebay $300 bo new">
+<div class="name">Flashdance – Deer</div>
+<div class="price">$300 BO</div>
+<div class="meta">
+<span>Number</span><b>246/670</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/256901840410" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="indian summer — unknown ebay $300 bo feb 9">
+<div class="name">Indian Summer</div>
+<div class="price">$300 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Feb 9</b>
+</div>
+<a href="https://www.ebay.com/itm/284179048595" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="foxfire 166/670 yes ebay $299.99 bo apr 26">
+<div class="name">Foxfire</div>
+<div class="price">$299.99 BO</div>
+<div class="meta">
+<span>Number</span><b>166/670</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Apr 26</b>
+</div>
+<a href="https://www.ebay.com/itm/326104763355" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="totem pole 60/760 unknown ebay $295 bo mar 14">
+<div class="name">Totem Pole</div>
+<div class="price">$295 BO</div>
+<div class="meta">
+<span>Number</span><b>60/760</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Mar 14</b>
+</div>
+<a href="https://www.ebay.com/itm/188162900242" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="bull rush 245/760 unknown ebay $275 bo dec 21">
+<div class="name">Bull Rush</div>
+<div class="price">$275 BO</div>
+<div class="meta">
+<span>Number</span><b>245/760</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Dec 21</b>
+</div>
+<a href="https://www.ebay.com/itm/177695920868" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="kits &amp; kaboodle — unknown ebay $255 bo new">
+<div class="name">Kits &amp; Kaboodle</div>
+<div class="price">$255 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/294186707664" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="billy club 425/940 unknown ebay $250 bo dec 21">
+<div class="name">Billy Club</div>
+<div class="price">$250 BO</div>
+<div class="meta">
+<span>Number</span><b>425/940</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Dec 21</b>
+</div>
+<a href="https://www.ebay.com/itm/177695954724" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="running on empty (1989) 230/1835 unknown ebay $250 bo aug 8">
+<div class="name">Running on Empty (1989)</div>
+<div class="price">$250 BO</div>
+<div class="meta">
+<span>Number</span><b>230/1835</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Aug 8</b>
+</div>
+<a href="https://www.ebay.com/itm/128016918456" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="dew drop inn – owl 782/850 yes (pictured) ebay $249 bo new">
+<div class="name">Dew Drop Inn – Owl</div>
+<div class="price">$249 BO</div>
+<div class="meta">
+<span>Number</span><b>782/850</b>
+<span>Framed</span><b>Yes (pictured)</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/396201651059" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="skinny dippin – moose — unknown ebay $245 bo new">
+<div class="name">Skinny Dippin – Moose</div>
+<div class="price">$245 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/294817511042" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="wash bears — no ebay $240 bo feb 4">
+<div class="name">Wash Bears</div>
+<div class="price">$240 BO</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>No</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>Feb 4</b>
+</div>
+<a href="https://www.ebay.com/itm/284172848774" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="apple dumplin – rabbit s/n litho unknown ebay $196 bin new">
+<div class="name">Apple Dumplin – Rabbit</div>
+<div class="price">$196 BIN</div>
+<div class="meta">
+<span>Number</span><b>S/N litho</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/147107392278" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="wash bears ltd – raccoons s/n litho unknown ebay $180 bin new">
+<div class="name">Wash Bears Ltd – Raccoons</div>
+<div class="price">$180 BIN</div>
+<div class="meta">
+<span>Number</span><b>S/N litho</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/1471117770047" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="hot date s/n unknown ebay $155 bo new">
+<div class="name">Hot Date</div>
+<div class="price">$155 BO</div>
+<div class="meta">
+<span>Number</span><b>S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/295741500341" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="lean cuisine – coyote s/n unknown ebay $155 bo new">
+<div class="name">Lean Cuisine – Coyote</div>
+<div class="price">$155 BO</div>
+<div class="meta">
+<span>Number</span><b>S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/294817634766" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="kits and kaboodle (1991) s/n unknown ebay $90 bin new">
+<div class="name">Kits And Kaboodle (1991)</div>
+<div class="price">$90 BIN</div>
+<div class="meta">
+<span>Number</span><b>S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>eBay</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.ebay.com/itm/354091328693" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-brokerage" data-theme="theme-brokerage"><h2 class="section" data-section="Art Brokerage">Art Brokerage</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="print" data-text="fuzzball hand signed litho ed. 850 yes art brokerage inquire ~$1,200 —">
+<div class="name">Fuzzball</div>
+<div class="price">Inquire ~$1,200</div>
+<div class="meta">
+<span>Number</span><b>Hand signed litho ed. 850</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Art Brokerage</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="lady in red (1987) plate-signed litho ed. 670 yes art brokerage inquire —">
+<div class="name">Lady in Red (1987)</div>
+<div class="price">Inquire</div>
+<div class="meta">
+<span>Number</span><b>Plate-signed litho ed. 670</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Art Brokerage</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.artbrokerage.com/Vivi-Crandall" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-kellys" data-theme="theme-kellys"><h2 class="section" data-section="Kelly&#x27;s Collectibles">Kelly&#x27;s Collectibles</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="print" data-text="lot of 16 wildlife prints (incl. shadow play 6/50; see ebay ap above) mixed s/n; shadow play 6/50 mixed (8/8) kelly&#x27;s $7,500 —">
+<div class="name">Lot of 16 wildlife prints (incl. Shadow Play 6/50; see eBay AP above)</div>
+<div class="price">$7,500</div>
+<div class="meta">
+<span>Number</span><b>Mixed S/N; Shadow Play 6/50</b>
+<span>Framed</span><b>Mixed (8/8)</b>
+<span>Source</span><b>Kelly&#x27;s</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.kellyscollectiblesmt.com/product/lot-of-16-vivi-crandall-wildlife-prints-framed-and-rolled/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-g601" data-theme="theme-g601"><h2 class="section" data-section="Gallery 601">Gallery 601</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="print" data-text="wash bears ed. 760 s/n unknown gallery 601 $215 —">
+<div class="name">Wash Bears</div>
+<div class="price">$215</div>
+<div class="meta">
+<span>Number</span><b>Ed. 760 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Gallery 601</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://gallery601.com/shop/subjects/animals/wash-bears/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="basket case ed. 850 s/n unknown gallery 601 $195 —">
+<div class="name">Basket Case</div>
+<div class="price">$195</div>
+<div class="meta">
+<span>Number</span><b>Ed. 850 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Gallery 601</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://gallery601.com/shop/subjects/animals/rabbits/basket-case/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="indian summer unknown unknown gallery 601 $195 —">
+<div class="name">Indian Summer</div>
+<div class="price">$195</div>
+<div class="meta">
+<span>Number</span><b>Unknown</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Gallery 601</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://gallery601.com/shop/subjects/animals/indian-summer-2/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-artusa" data-theme="theme-artusa"><h2 class="section" data-section="ArtUSA">ArtUSA</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="print" data-text="fuzzball – rabbit 850 s/n unknown artusa $395 —">
+<div class="name">Fuzzball – Rabbit</div>
+<div class="price">$395</div>
+<div class="meta">
+<span>Number</span><b>850 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>ArtUSA</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://artusa.com/product/fuzzball-rabbit/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="running on empty 1835 s/n unknown artusa $330 —">
+<div class="name">Running on Empty</div>
+<div class="price">$330</div>
+<div class="meta">
+<span>Number</span><b>1835 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>ArtUSA</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://artusa.com/product/running-on-empty/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="apple dumplin&#x27; – rabbit 760 s/n unknown artusa $245 —">
+<div class="name">Apple Dumplin&#x27; – Rabbit</div>
+<div class="price">$245</div>
+<div class="meta">
+<span>Number</span><b>760 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>ArtUSA</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://artusa.com/product/apple-dumplin-rabbit/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="wash bears ltd – raccoons 760 s/n unknown artusa $225 —">
+<div class="name">Wash Bears Ltd – Raccoons</div>
+<div class="price">$225</div>
+<div class="meta">
+<span>Number</span><b>760 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>ArtUSA</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://artusa.com/product/wash-bears-ltd-raccoons-2/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="new generation – ferrets 760 s/n unknown artusa on request —">
+<div class="name">New Generation – Ferrets</div>
+<div class="price">On request</div>
+<div class="meta">
+<span>Number</span><b>760 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>ArtUSA</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://artusa.com/product/new-generation-black-footed-ferrets/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-prints" data-theme="theme-prints"><h2 class="section" data-section="Prints.com">Prints.com</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="print" data-text="night shift ap on paper ap unknown prints.com $949.95 —">
+<div class="name">Night Shift AP on Paper</div>
+<div class="price">$949.95</div>
+<div class="meta">
+<span>Number</span><b>AP</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Prints.com</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.prints.com/prints.php/Vivi_Crandall/Night_Shift/?artist_id=2367&amp;print_id=23085" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="shangrila – figurative ed. 940 s/n unknown prints.com $379.95 new">
+<div class="name">Shangrila – Figurative</div>
+<div class="price">$379.95</div>
+<div class="meta">
+<span>Number</span><b>Ed. 940 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Prints.com</b>
+<span>Listed</span><b>new</b>
+</div>
+<a href="https://www.prints.com/art.php/Vivi_Crandall/?artist_id=2367&amp;page=1-98-0--" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="billy club – mountain goats ed. 940 s/n unknown prints.com $279.95 —">
+<div class="name">Billy Club – Mountain Goats</div>
+<div class="price">$279.95</div>
+<div class="meta">
+<span>Number</span><b>Ed. 940 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Prints.com</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.prints.com/prints.php/Vivi_Crandall/Billy_Club_-_Mountain_Goats/?artist_id=2367&amp;print_id=4022" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="finders keepers – wolves ed. 670 s/n unknown prints.com $239.95 —">
+<div class="name">Finders Keepers – Wolves</div>
+<div class="price">$239.95</div>
+<div class="meta">
+<span>Number</span><b>Ed. 670 S/N</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Prints.com</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.prints.com/prints.php/Vivi_Crandall/Finders_Keepers_-_Wolves/?artist_id=2367&amp;print_id=22443" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="print" data-text="indian summer ed. 940 s/n unframed / framed opts prints.com $239.95 —">
+<div class="name">Indian Summer</div>
+<div class="price">$239.95</div>
+<div class="meta">
+<span>Number</span><b>Ed. 940 S/N</b>
+<span>Framed</span><b>Unframed / framed opts</b>
+<span>Source</span><b>Prints.com</b>
+<span>Listed</span><b>—</b>
+</div>
+<a href="https://www.prints.com/art.php?print_id=11253&amp;type=15" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<section class="section-wrap theme-auction" data-theme="theme-auction"><h2 class="section" data-section="Open auctions (HiBid)">Open auctions (HiBid)</h2>
+<div class="grid" data-section-grid>
+<article class="card" data-kind="auction" data-text="close encounter (1982) signed signed print unknown hibid / wiggy&#x27;s estate sales (casper wy) high bid $111 (15 bids) +15% bp open · soft close tue sep 22 6pm mt">
+<span class="badge">Auction</span>
+<div class="name">Close Encounter (1982) Signed</div>
+<div class="price">High bid $111 (15 bids) +15% BP</div>
+<div class="meta">
+<span>Number</span><b>Signed print</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>HiBid / Wiggy&#x27;s Estate Sales (Casper WY)</b>
+<span>Listed</span><b>OPEN · soft close Tue Sep 22 6pm MT</b>
+</div>
+<a href="https://hibid.com/lot/321756888/vivi-crandall--close-encounter--1982-signed" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="auction" data-text="pms (bobcat) signed &amp; numbered 193/1300 unknown hibid / wiggy&#x27;s estate sales (casper wy) high bid $29 (6 bids) +15% bp open · soft close tue sep 22 6pm mt">
+<span class="badge">Auction</span>
+<div class="name">PMS (bobcat) Signed &amp; Numbered</div>
+<div class="price">High bid $29 (6 bids) +15% BP</div>
+<div class="meta">
+<span>Number</span><b>193/1300</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>HiBid / Wiggy&#x27;s Estate Sales (Casper WY)</b>
+<span>Listed</span><b>OPEN · soft close Tue Sep 22 6pm MT</b>
+</div>
+<a href="https://hibid.com/lot/321756893/vivi-crandall--pms--signed-and-numbered-193-1300" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="auction" data-text="the i.r.s. (irate raging sow) 378/940 w/ coa yes (34.25×44.75) hibid / gardner auction (kalispell mt) bidding opens sep 18 · +18% bp posted · opens fri sep 18 ~4:06pm mt">
+<span class="badge">Auction</span>
+<div class="name">THE I.R.S. (Irate Raging Sow)</div>
+<div class="price">Bidding opens Sep 18 · +18% BP</div>
+<div class="meta">
+<span>Number</span><b>378/940 w/ COA</b>
+<span>Framed</span><b>Yes (34.25×44.75)</b>
+<span>Source</span><b>HiBid / Gardner Auction (Kalispell MT)</b>
+<span>Listed</span><b>POSTED · opens Fri Sep 18 ~4:06pm MT</b>
+</div>
+<a href="https://hibid.com/lot/321230331/vivi-k-crandall--the-i-r-s---irate-raging-sow-" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div>
+</section>
+
+<footer>Open auctions: 3 HiBid lots as of 2026-09-17. eBay live recheck blocked this run. Watch every 3 days @ 9am Mountain. Live: https://spade-stack.github.io/vivi-crandall-for-sale/ · 70 cards</footer>
 </main>
 <script>
 const q = document.getElementById('q');

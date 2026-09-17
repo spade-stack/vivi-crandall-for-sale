@@ -1,7 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-09-07 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-09-17 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
+
+**eBay note:** Live eBay recheck on 2026-09-17 was blocked (IP error page). eBay rows below are retained from last successful sweep **2026-09-07** and may include ended items until the next live pass.
 
 ## ★ Artist proofs
 
@@ -20,7 +22,6 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
 | Rams in a Mountain Landscape | Original oil on canvas | Unknown | $4,450 BO | eBay | Jun 29 | [open](https://www.ebay.com/itm/306373740237) |
-| Untitled Cougar Portrait (1996) | Original acrylic on canvas | Yes | Inquire ~$2,000 | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 
 ## Newest eBay (prints.com)
 
@@ -81,13 +82,12 @@ Open this folder’s `sale-grid.html` for the visual grid.
 |---|---|---|---|---|---|---|
 | Fuzzball | Hand signed litho ed. 850 | Yes | Inquire ~$1,200 | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 | Lady in Red (1987) | Plate-signed litho ed. 670 | Yes | Inquire | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
-| Royal Flush (1992) | Hand signed litho ed. 670 | Yes | Inquire ~$1,800 | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 
 ## Kelly's Collectibles
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Lot of 16 wildlife prints (incl. another Shadow Play ref; see eBay AP 6/50 above) | Mixed S/N; Shadow Play 6/50 | Mixed (8/8) | $7,500 | Kelly's | — | [open](https://www.kellyscollectiblesmt.com/product/lot-of-16-vivi-crandall-wildlife-prints-framed-and-rolled/) |
+| Lot of 16 wildlife prints (incl. Shadow Play 6/50; see eBay AP above) | Mixed S/N; Shadow Play 6/50 | Mixed (8/8) | $7,500 | Kelly's | — | [open](https://www.kellyscollectiblesmt.com/product/lot-of-16-vivi-crandall-wildlife-prints-framed-and-rolled/) |
 
 ## Gallery 601
 
@@ -117,8 +117,20 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Finders Keepers – Wolves | Ed. 670 S/N | Unknown | $239.95 | Prints.com | — | [open](https://www.prints.com/prints.php/Vivi_Crandall/Finders_Keepers_-_Wolves/?artist_id=2367&print_id=22443) |
 | Indian Summer | Ed. 940 S/N | Unframed / framed opts | $239.95 | Prints.com | — | [open](https://www.prints.com/art.php?print_id=11253&type=15) |
 
-## Open auctions
-None as of 2026-09-07 (HiBid, LiveAuctioneers, Invaluable, MutualArt, AuctionZip, Bidsquare, Heritage blocked/challenge, CTBids, estatesales.net).
+## Open auctions (HiBid)
+
+| Name | Number | Framed | Price | Source | Listed | Link |
+|---|---|---|---|---|---|---|
+| Close Encounter (1982) Signed | Signed print | Unknown | High bid $111 (15 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756888/vivi-crandall--close-encounter--1982-signed) |
+| PMS (bobcat) Signed & Numbered | 193/1300 | Unknown | High bid $29 (6 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756893/vivi-crandall--pms--signed-and-numbered-193-1300) |
+| THE I.R.S. (Irate Raging Sow) | 378/940 w/ COA | Yes (34.25×44.75) | Bidding opens Sep 18 · +18% BP | HiBid / Gardner Auction (Kalispell MT) | POSTED · opens Fri Sep 18 ~4:06pm MT | [open](https://hibid.com/lot/321230331/vivi-k-crandall--the-i-r-s---irate-raging-sow-) |
+
+## Auction sweep notes
+- **HiBid:** 3 lots (2 OPEN Casper Youmans estate soft-close Sep 22; 1 POSTED Kalispell Gardner Auction opens Sep 18).
+- **LiveAuctioneers:** No upcoming results for Vivi Crandall.
+- **Invaluable:** 0 for sale at auction.
+- **MutualArt:** No works currently available for sale (upcoming lots = past sold only).
+- **Bidsquare / AuctionZip / Heritage / CTBids / estatesales.net:** No open Vivi Crandall lots found.
 
 ## Watch (every 3 days @ 9am MT)
 Dealers + auction sites; open/current only.
