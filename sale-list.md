@@ -1,9 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-09-17 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-09-19 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
-**eBay note:** Live eBay recheck on 2026-09-17 was blocked (IP error page). eBay rows below are retained from last successful sweep **2026-09-07** and may include ended items until the next live pass.
+**eBay note:** Live eBay recheck on 2026-09-19 was blocked (IP error page / 403), same as Sep 17. eBay rows below are retained from last successful sweep **2026-09-07** and may include ended items until the next live pass.
 
 ## ★ Artist proofs
 
@@ -22,6 +22,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
 | Rams in a Mountain Landscape | Original oil on canvas | Unknown | $4,450 BO | eBay | Jun 29 | [open](https://www.ebay.com/itm/306373740237) |
+| Untitled Cougar Portrait (1996) | Original acrylic on canvas | Yes | Inquire ~$2,000 | Art Brokerage | restored | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 
 ## Newest eBay (prints.com)
 
@@ -80,6 +81,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
+| Royal Flush (1992) | Hand-signed litho ed. 670 | Yes | Inquire ~$1,800 | Art Brokerage | restored | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 | Fuzzball | Hand signed litho ed. 850 | Yes | Inquire ~$1,200 | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 | Lady in Red (1987) | Plate-signed litho ed. 670 | Yes | Inquire | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 
@@ -123,14 +125,14 @@ Open this folder’s `sale-grid.html` for the visual grid.
 |---|---|---|---|---|---|---|
 | Close Encounter (1982) Signed | Signed print | Unknown | High bid $111 (15 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756888/vivi-crandall--close-encounter--1982-signed) |
 | PMS (bobcat) Signed & Numbered | 193/1300 | Unknown | High bid $29 (6 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756893/vivi-crandall--pms--signed-and-numbered-193-1300) |
-| THE I.R.S. (Irate Raging Sow) | 378/940 w/ COA | Yes (34.25×44.75) | Bidding opens Sep 18 · +18% BP | HiBid / Gardner Auction (Kalispell MT) | POSTED · opens Fri Sep 18 ~4:06pm MT | [open](https://hibid.com/lot/321230331/vivi-k-crandall--the-i-r-s---irate-raging-sow-) |
+| THE I.R.S. (Irate Raging Sow) | 378/940 w/ COA | Yes (34.25×44.75) | High bid $22 (3 bids) +18% BP | HiBid / Gardner Auction (Kalispell MT) | OPEN · closes toward Mon Sep 28 ~5pm MT | [open](https://hibid.com/lot/321230331/vivi-k-crandall--the-i-r-s---irate-raging-sow-) |
 
 ## Auction sweep notes
-- **HiBid:** 3 lots (2 OPEN Casper Youmans estate soft-close Sep 22; 1 POSTED Kalispell Gardner Auction opens Sep 18).
-- **LiveAuctioneers:** No upcoming results for Vivi Crandall.
+- **HiBid:** 3 OPEN lots (2 Casper Youmans estate soft-close Sep 22; 1 Kalispell Gardner Auction OPEN — I.R.S. high bid $22, closes toward Sep 28).
+- **LiveAuctioneers:** No upcoming results for Vivi Crandall (Incapsula blocked direct fetch; search corroborates none).
 - **Invaluable:** 0 for sale at auction.
 - **MutualArt:** No works currently available for sale (upcoming lots = past sold only).
-- **Bidsquare / AuctionZip / Heritage / CTBids / estatesales.net:** No open Vivi Crandall lots found.
+- **Bidsquare / AuctionZip / Heritage / CTBids / estatesales.net:** No open Vivi Crandall lots found (Heritage HTTP 403).
 
 ## Watch (every 3 days @ 9am MT)
 Dealers + auction sites; open/current only.
