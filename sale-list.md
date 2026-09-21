@@ -1,9 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-09-19 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-09-21 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
-**eBay note:** Live eBay recheck on 2026-09-19 was blocked (IP error page / 403), same as Sep 17. eBay rows below are retained from last successful sweep **2026-09-07** and may include ended items until the next live pass.
+**eBay note:** Live eBay recheck on 2026-09-21 still blocked (IP error page / 403 via curl, headless Chrome, and desktop-proxy). eBay rows below are retained from last successful sweep **2026-09-07** and may include ended items until the next live pass.
 
 ## ★ Artist proofs
 
@@ -104,7 +104,6 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
 | Fuzzball – Rabbit | 850 S/N | Unknown | $395 | ArtUSA | — | [open](https://artusa.com/product/fuzzball-rabbit/) |
-| Running on Empty | 1835 S/N | Unknown | $330 | ArtUSA | — | [open](https://artusa.com/product/running-on-empty/) |
 | Apple Dumplin' – Rabbit | 760 S/N | Unknown | $245 | ArtUSA | — | [open](https://artusa.com/product/apple-dumplin-rabbit/) |
 | Wash Bears Ltd – Raccoons | 760 S/N | Unknown | $225 | ArtUSA | — | [open](https://artusa.com/product/wash-bears-ltd-raccoons-2/) |
 | New Generation – Ferrets | 760 S/N | Unknown | On request | ArtUSA | — | [open](https://artusa.com/product/new-generation-black-footed-ferrets/) |
@@ -119,20 +118,29 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Finders Keepers – Wolves | Ed. 670 S/N | Unknown | $239.95 | Prints.com | — | [open](https://www.prints.com/prints.php/Vivi_Crandall/Finders_Keepers_-_Wolves/?artist_id=2367&print_id=22443) |
 | Indian Summer | Ed. 940 S/N | Unframed / framed opts | $239.95 | Prints.com | — | [open](https://www.prints.com/art.php?print_id=11253&type=15) |
 
+## Beckman Gallery
+
+| Name | Number | Framed | Price | Source | Listed | Link |
+|---|---|---|---|---|---|---|
+| Freezer Burn (1988) Nook & Cranny Series | 125/300 | Unknown | $125 | Beckman Gallery | new | [open](https://beckmangallery.com/products/freezer-burn-vivi-k-crandall) |
+
 ## Open auctions (HiBid)
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
 | Close Encounter (1982) Signed | Signed print | Unknown | High bid $111 (15 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756888/vivi-crandall--close-encounter--1982-signed) |
 | PMS (bobcat) Signed & Numbered | 193/1300 | Unknown | High bid $29 (6 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756893/vivi-crandall--pms--signed-and-numbered-193-1300) |
-| THE I.R.S. (Irate Raging Sow) | 378/940 w/ COA | Yes (34.25×44.75) | High bid $22 (3 bids) +18% BP | HiBid / Gardner Auction (Kalispell MT) | OPEN · closes toward Mon Sep 28 ~5pm MT | [open](https://hibid.com/lot/321230331/vivi-k-crandall--the-i-r-s---irate-raging-sow-) |
+| THE I.R.S. (Irate Raging Sow) | 378/940 w/ COA | Yes (34.25×44.75) | High bid $105 (7 bids) +18% BP | HiBid / Gardner Auction (Kalispell MT) | OPEN · closes toward Mon Sep 28 ~5pm MT | [open](https://hibid.com/lot/321230331/vivi-k-crandall--the-i-r-s---irate-raging-sow-) |
 
 ## Auction sweep notes
-- **HiBid:** 3 OPEN lots (2 Casper Youmans estate soft-close Sep 22; 1 Kalispell Gardner Auction OPEN — I.R.S. high bid $22, closes toward Sep 28).
-- **LiveAuctioneers:** No upcoming results for Vivi Crandall (Incapsula blocked direct fetch; search corroborates none).
+- **HiBid:** 3 OPEN lots (same URLs). Close Encounter high bid **$111** (15 bids) soft-close Tue Sep 22 6pm MT; PMS high bid **$29** (6 bids) soft-close Tue Sep 22 6pm MT; I.R.S. high bid **$105** (7 bids, was $22/3 on Sep 19) closes toward Mon Sep 28 ~5pm MT.
+- **LiveAuctioneers:** Incapsula blocked; web search found no upcoming open lots.
 - **Invaluable:** 0 for sale at auction.
-- **MutualArt:** No works currently available for sale (upcoming lots = past sold only).
-- **Bidsquare / AuctionZip / Heritage / CTBids / estatesales.net:** No open Vivi Crandall lots found (Heritage HTTP 403).
+- **MutualArt:** CAPTCHA / no works currently available for sale verified (prior: none for sale).
+- **Bidsquare / AuctionZip / Heritage / CTBids / estatesales.net:** No open Vivi Crandall lots found (Heritage JS wall; LA Incapsula).
+- **New dealer:** Beckman Gallery — Freezer Burn print 125/300 @ $125 (verified).
+- **Removed:** ArtUSA Running on Empty — product URL now **404**.
+
 
 ## Watch (every 3 days @ 9am MT)
 Dealers + auction sites; open/current only.
