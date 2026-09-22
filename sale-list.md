@@ -1,9 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-09-21 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-09-22 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
-**eBay note:** Live eBay recheck on 2026-09-21 still blocked (IP error page / 403 via curl, headless Chrome, and desktop-proxy). eBay rows below are retained from last successful sweep **2026-09-07** and may include ended items until the next live pass.
+**eBay note:** Live eBay recheck on 2026-09-22 still blocked (HTTP 403 / error page via curl). eBay rows below are retained from last successful sweep **2026-09-07** and may include ended items until the next live pass.
 
 ## ★ Artist proofs
 
@@ -128,18 +128,19 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Close Encounter (1982) Signed | Signed print | Unknown | High bid $111 (15 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756888/vivi-crandall--close-encounter--1982-signed) |
-| PMS (bobcat) Signed & Numbered | 193/1300 | Unknown | High bid $29 (6 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 6pm MT | [open](https://hibid.com/lot/321756893/vivi-crandall--pms--signed-and-numbered-193-1300) |
+| Close Encounter (1982) Signed | Signed print | Unknown | High bid $146 (17 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 ~6pm MT | [open](https://hibid.com/lot/321756888/vivi-crandall--close-encounter--1982-signed) |
+| PMS (bobcat) Signed & Numbered | 193/1300 | Unknown | High bid $45 (13 bids) +15% BP | HiBid / Wiggy's Estate Sales (Casper WY) | OPEN · soft close Tue Sep 22 ~6pm MT | [open](https://hibid.com/lot/321756893/vivi-crandall--pms--signed-and-numbered-193-1300) |
 | THE I.R.S. (Irate Raging Sow) | 378/940 w/ COA | Yes (34.25×44.75) | High bid $105 (7 bids) +18% BP | HiBid / Gardner Auction (Kalispell MT) | OPEN · closes toward Mon Sep 28 ~5pm MT | [open](https://hibid.com/lot/321230331/vivi-k-crandall--the-i-r-s---irate-raging-sow-) |
 
 ## Auction sweep notes
-- **HiBid:** 3 OPEN lots (same URLs). Close Encounter high bid **$111** (15 bids) soft-close Tue Sep 22 6pm MT; PMS high bid **$29** (6 bids) soft-close Tue Sep 22 6pm MT; I.R.S. high bid **$105** (7 bids, was $22/3 on Sep 19) closes toward Mon Sep 28 ~5pm MT.
-- **LiveAuctioneers:** Incapsula blocked; web search found no upcoming open lots.
-- **Invaluable:** 0 for sale at auction.
-- **MutualArt:** CAPTCHA / no works currently available for sale verified (prior: none for sale).
-- **Bidsquare / AuctionZip / Heritage / CTBids / estatesales.net:** No open Vivi Crandall lots found (Heritage JS wall; LA Incapsula).
-- **New dealer:** Beckman Gallery — Freezer Burn print 125/300 @ $125 (verified).
-- **Removed:** ArtUSA Running on Empty — product URL now **404**.
+- **HiBid:** 3 OPEN lots (same URLs). Close Encounter high bid **$146** (17 bids; was $111/15 on Sep 21) soft-close Tue Sep 22 ~6pm MT; PMS high bid **$45** (13 bids; was $29/6 on Sep 21) soft-close Tue Sep 22 ~6pm MT; I.R.S. high bid **$105** (7 bids) unchanged · closes toward Mon Sep 28 ~5pm MT.
+- **LiveAuctioneers:** Incapsula blocked; web search found no upcoming open Vivi lots (sold-history only).
+- **Invaluable:** Sold-prices page only; no currently offered lots (Yellow Brick Road May 15 2026 already past).
+- **MutualArt:** CAPTCHA wall; no open for-sale verified.
+- **Bidsquare:** Northern Lights (CDA Jul 25 2026) already sold — not open; no other current open lots verified.
+- **AuctionZip / Heritage / CTBids / estatesales.net:** No open Vivi Crandall lots found (Heritage HTTP 403; estatesales SPA empty; CTBids no hits; AuctionZip no keyword hits).
+- **Kelly's:** SiteGround captcha on product page — retained prior $7,500 lot listing.
+- **Dealers:** Art Brokerage / Gallery 601 / ArtUSA / Prints.com / Beckman unchanged vs Sep 21.
 
 
 ## Watch (every 3 days @ 9am MT)
