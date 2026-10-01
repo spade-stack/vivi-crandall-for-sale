@@ -1,9 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-09-30 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-01 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
-**eBay note:** Browser Art Prints `_sacat=360` on 2026-09-30: **50** results (LIVE). **NEW** Finders Keepers 398442143675 $239.99; Lean Cuisine relist 820188275836 $299.99 (old 398225824569 ended). **REMOVED** ended Fandango 336561697956, Totem Pole Owls 336609715148, Wash Bears 358616064406. Rams oil ↓**$4,300**; Golden Eyes ↓**$132.49 BIN**. HiBid I.R.S. ended — Price Realized **$160** (+18% BP).
+**eBay note:** Browser Art Prints path-style LIVE **68** buyable non-plate IDs. **NEW** (12): Wash Bears 336821677828 $129.95; Totem Pole Owls 820191715131 $399.99 (prints.com ~12h relists); plus Night Watch 256884699324, Billy Club 335180555917, Totem Pole 107/760 & 299/760, Pickled Tink x2, Wash Bears 425/760, Skinny Dippin 556/850, Fandango 281783569848, Running on Empty 115419570180. Golden Eyes 128073267853 ↓**$132.10 BIN**. No known IDs ended. Auctions: 0 OPEN. Dealers unchanged.
 
 ## ★ Artist proofs
 
@@ -33,6 +33,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Close Encounter – Grizzly | — | Unknown | $649.99 BO | eBay | relist | [open](https://www.ebay.com/itm/398426068036) |
 | Night Watch | — | Unknown | $409.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336791609503) |
 | Cotton Candy – Deer | — | Unknown | $399.99 BO | eBay | Mar 19 | [open](https://www.ebay.com/itm/397737750555) |
+| Totem Pole – Owls | — | Unknown | $399.99 BO | eBay | new | [open](https://www.ebay.com/itm/820191715131) |
 | Wascally Wabbit – Rabbit | — | Unknown | $399.99 BO | eBay | Aug 31 | [open](https://www.ebay.com/itm/398345547823) |
 | Dew Drop Inn – Owl | — | Unknown | $379.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336788864976) |
 | Hot Cross Buns – Bears | — | Unknown | $349.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820104559469) |
@@ -44,6 +45,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Finders Keepers – Wolves | — | Unknown | $239.99 BO | eBay | new | [open](https://www.ebay.com/itm/398442143675) |
 | Tunnel of Love – Bobcats | — | Unknown | $199.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336809934914) |
 | Running on Empty – Cougar | — | Unknown | $149.95 BO | eBay | relist | [open](https://www.ebay.com/itm/820140637423) |
+| Wash Bears – Raccoons | — | Unknown | $129.95 BO | eBay | new | [open](https://www.ebay.com/itm/336821677828) |
 
 ## Other eBay S/N prints
 
@@ -56,31 +58,41 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Snow Blind – Cougar | — | Yes | $500 BO | eBay | live | [open](https://www.ebay.com/itm/166131386772) |
 | Swat Team – Cats | — | Pictured framed | $425 BO | eBay | live | [open](https://www.ebay.com/itm/388603976986) |
 | Fuzzball – Rabbit (LTD ED) | LTD ED | Unknown | $425 BO | eBay | new | [open](https://www.ebay.com/itm/295466140108) |
+| Night Watch | 618/760 | Unknown | $399.99 BO | eBay | new | [open](https://www.ebay.com/itm/256884699324) |
+| THE BILLY CLUB litho | LE hand signed | Unknown | $399.99 BIN | eBay | new | [open](https://www.ebay.com/itm/335180555917) |
 | Fuzz Ball | 85/850 | Unknown | $395 BO | eBay | new | [open](https://www.ebay.com/itm/263579309390) |
 | Fuzzball – Rabbit | S/N litho | Unknown | $395 BIN | eBay | price↑ | [open](https://www.ebay.com/itm/146559075484) |
 | Cotton Candy (1986) | 369/760 | Unknown | $395 BO | eBay | May 1 | [open](https://www.ebay.com/itm/256914215396) |
+| Totem Pole – Owls | 107/760 | Unknown | $350 BO | eBay | new | [open](https://www.ebay.com/itm/256945019237) |
 | Running on Empty (unframed, sold-out ed.) | — | No | $350 BO | eBay | new | [open](https://www.ebay.com/itm/284094798226) |
 | Totem Pole – Owls | 343/760 | Unknown | $345 BO | eBay | Mar 20 | [open](https://www.ebay.com/itm/298145049960) |
 | Wash Bears – Raccoons | 540/760 | Yes | $345 BIN | eBay | live | [open](https://www.ebay.com/itm/266614987892) |
+| Totem Pole – Owls | 299/760 | Unknown | $335 BO | eBay | new | [open](https://www.ebay.com/itm/256890945502) |
+| Fandango | ed. of 670 (no cert) | Unknown | $325 BO | eBay | new | [open](https://www.ebay.com/itm/281783569848) |
 | Tunnel of Love (S/N) | S/N | Unknown | $300 BO | eBay | new | [open](https://www.ebay.com/itm/284155059811) |
 | Flashdance – Deer | 246/670 | Unknown | $300 BO | eBay | live | [open](https://www.ebay.com/itm/256901840410) |
 | Indian Summer | — | Unknown | $300 BO | eBay | Feb 9 | [open](https://www.ebay.com/itm/284179048595) |
+| Wash Bears LTD – Raccoons | 425/760 | Unknown | $299.99 BO | eBay | new | [open](https://www.ebay.com/itm/256887192246) |
 | Foxfire | 166/670 | Yes | $299.99 BO | eBay | Apr 26 | [open](https://www.ebay.com/itm/326104763355) |
 | Totem Pole | 60/760 | Unknown | $295 BO | eBay | Mar 14 | [open](https://www.ebay.com/itm/188162900242) |
 | Kits & Kaboodle | — | Unknown | $255 BO | eBay | live | [open](https://www.ebay.com/itm/294186707664) |
+| Skinny Dippin – Moose | 556/850 | Unknown | $250 BO | eBay | new | [open](https://www.ebay.com/itm/256887188745) |
 | Running on Empty (1989) | 230/1835 | Unknown | $250 BO | eBay | Aug 8 | [open](https://www.ebay.com/itm/128016918456) |
 | Dew Drop Inn – Owl | 782/850 | Yes (pictured) | $249 BO | eBay | live | [open](https://www.ebay.com/itm/396201651059) |
 | Apple Dumplin – Rabbit | S/N litho | Unknown | $245 BIN | eBay | price↑ | [open](https://www.ebay.com/itm/147107392278) |
 | Skinny Dippin – Moose | — | Unknown | $245 BO | eBay | live | [open](https://www.ebay.com/itm/294817511042) |
 | Wash Bears | — | No | $240 BO | eBay | Feb 4 | [open](https://www.ebay.com/itm/284172848774) |
+| Pickled Tink | 147/760 | Unknown | $230 BO | eBay | new | [open](https://www.ebay.com/itm/256888797093) |
 | Where's the Beef | LTD ED | Unknown | $225 BO | eBay | new | [open](https://www.ebay.com/itm/294584814545) |
 | Wash Bears Ltd – Raccoons | S/N litho | Unknown | $225 BIN | eBay | price↑ | [open](https://www.ebay.com/itm/147111777004) |
+| Pickled Tink | 146/760 | Unknown | $225 BO | eBay | new | [open](https://www.ebay.com/itm/256887184715) |
 | Billy Club | 425/940 | Unknown | $200 BO | eBay | Dec 21 | [open](https://www.ebay.com/itm/177695954724) |
 | Basket Case | LTD ED | Unknown | $195 BO | eBay | new | [open](https://www.ebay.com/itm/293627167014) |
 | Fruit O' the Loom | LTD ED | Unknown | $195 BO | eBay | new | [open](https://www.ebay.com/itm/293023309934) |
+| Running on Empty | 1835 S/N ed. | Unknown | $170 BO | eBay | new | [open](https://www.ebay.com/itm/115419570180) |
 | Hot Date | S/N | Unknown | $155 BO | eBay | live | [open](https://www.ebay.com/itm/295741500341) |
 | Lean Cuisine – Coyote | S/N | Unknown | $155 BO | eBay | live | [open](https://www.ebay.com/itm/294817634766) |
-| Golden Eyes – Cougar (framed) | LE signed | Yes | $132.49 BIN | eBay | new | [open](https://www.ebay.com/itm/128073267853) |
+| Golden Eyes – Cougar (framed) | LE signed | Yes | $132.10 BIN | eBay | new | [open](https://www.ebay.com/itm/128073267853) |
 | Freezer Burn – Cougar (framed) | S/N | Yes | $99 BO | eBay | new | [open](https://www.ebay.com/itm/128080827494) |
 | Kits And Kaboodle (1991) | S/N | Unknown | $90 BIN | eBay | live | [open](https://www.ebay.com/itm/354091328693) |
 
@@ -136,18 +148,18 @@ _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 2
 
 
 ## Auction sweep notes
-- **HiBid:** **0 OPEN**. THE I.R.S. (321230331) **ENDED** Mon Sep 28 soft-close — Price Realized **$160** (+18% BP). Keyword search: no currently-open Vivi lots.
-- **LiveAuctioneers:** Incapsula / empty body (as usual); no upcoming open Vivi lots verified.
+- **HiBid:** **0 OPEN**. THE I.R.S. (321230331) **ENDED** — Price Realized **$160** (+18% BP). Keyword search + Chrome DOM: no currently-open Vivi lots.
+- **LiveAuctioneers:** Incapsula / challenge shell; no upcoming open Vivi lots verified.
 - **Invaluable:** For Sale at Auction: **0**.
-- **MutualArt:** Playwright Artworks For Sale: **“No works currently available for sale.”** Past SOLD only.
-- **Bidsquare:** No open Vivi lots verified.
+- **MutualArt:** CAPTCHA blocked; indexed “upcoming” Northern Lights is past (sold Jul 25). No open lot verified.
+- **Bidsquare:** No open Vivi lots verified (Northern Lights past).
 - **AuctionZip:** 0 matching lots for keyword.
 - **Heritage:** HTTP 403 / bot wall (as usual).
-- **CTBids:** Fetched (PW); **no Crandall hits**.
+- **CTBids:** No Crandall content / connection fail.
 - **estatesales.net:** No Crandall content in results.
-- **Proxibid:** HTTP 403 / Incapsula (as usual).
-- **Kelly's:** Lot of 16 still **$7,500** Add to cart. Standalone Shadow Play AP page still **sold**.
-- **Dealers:** Art Brokerage still 5 inquire; Gallery 601 Wash Bears $215 / Basket Case $195 / Indian Summer $195 (1 in stock each); ArtUSA Fuzzball $395 / Apple Dumplin' $245 / Wash Bears $225; Prints.com **unreachable this run** (TLS/timeout — kept prior prices); Beckman Freezer Burn $125 InStock.
+- **Proxibid:** 404 / Incapsula (as usual). PrimeTime: past completed only.
+- **Kelly's:** Lot of 16 still **$7,500**. Standalone Shadow Play AP still sold (prior).
+- **Dealers:** Unchanged vs Sep 30 tracked rows. Prints.com **reachable again** (baseline 4 prices intact). Art Brokerage still 5 inquire; Gallery 601 Wash Bears $215 / Basket Case $195 / Indian Summer $195; ArtUSA Fuzzball $395 / Apple Dumplin' $245 / Wash Bears $225; Beckman Freezer Burn $125 InStock. vivicrandall.com **down** (HTTP 500 / connection closed).
 
 ## Watch (every 3 days @ 9am MT)
 Dealers + auction sites; open/current only.
