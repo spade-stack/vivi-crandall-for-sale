@@ -334,11 +334,30 @@
   .chip.chip-beckman { border-color: #0e7490; color: #67e8f9; }
   .chip.chip-beckman.active { background: #164e63; color: #67e8f9; border-color: #67e8f9; }
 
+  .theme-fb h2.section { color: #f59e0b; border-left: 3px solid #f59e0b; padding-left: 10px; }
+  .theme-fb .card {
+    background: linear-gradient(165deg, #1c1408 0%, #2a1c0a 100%);
+    border-color: #b45309;
+    box-shadow: inset 0 0 0 1px #f59e0b22, 0 0 24px #f59e0b10;
+  }
+  .theme-fb .card .price { color: #f59e0b; }
+  .theme-fb .badge { background: #78350f; color: #fbbf24; }
+  .theme-fb .card a { color: #fbbf24; }
+  .theme-fb .section-wrap {
+    background: linear-gradient(90deg, #f59e0b14, transparent 55%);
+    border: 1px solid #b4530955;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-fb { border-color: #b45309; color: #f59e0b; }
+  .chip.chip-fb.active { background: #451a03; color: #fbbf24; border-color: #f59e0b; }
+
 </style>
 
 <header>
 <h1>Vivi Crandall — for sale</h1>
-<p>Physical art currently for sale — paintings, oil/acrylic, prints/lithographs (esp. APs). No plates. Updated 2026-10-01 MT.</p>
+<p>Physical art currently for sale — paintings, oil/acrylic, prints/lithographs (esp. APs). No plates. Updated 2026-10-03 MT.</p>
 <ul class="legend">
 <li><i style="background:#fbbf24"></i> Artist proofs</li>
 <li><i style="background:#fb7185"></i> Originals</li>
@@ -350,6 +369,7 @@
 <li><i style="background:#818cf8"></i> ArtUSA</li>
 <li><i style="background:#67e8f9"></i> Beckman</li>
 <li><i style="background:#f9a8d4"></i> Prints.com</li>
+<li><i style="background:#f59e0b"></i> Facebook Marketplace</li>
 <li><i style="background:#f472b6"></i> Open auctions</li>
 </ul>
 <div class="filters">
@@ -358,11 +378,12 @@
 <button class="chip chip-ap" data-filter="ap">Artist proofs</button>
 <button class="chip chip-original" data-filter="original">Originals</button>
 <button class="chip chip-print" data-filter="print">Prints</button>
+<button class="chip chip-fb" data-filter="fb">Marketplace</button>
 <button class="chip chip-auction" data-filter="auction">Auctions</button>
 </div>
 </header>
 <main>
-<p class="caveat" style="color:var(--muted);font-size:.85rem;margin:8px 0 16px">eBay browser Art Prints path-style LIVE 68 buyable non-plate IDs. NEW (12): Wash Bears $129.95 + Totem Pole Owls $399.99 prints.com ~12h relists; plus Night Watch, Billy Club, Totem Pole 107/760 &amp; 299/760, Pickled Tink x2, Wash Bears 425/760, Skinny Dippin 556/850, Fandango, Running on Empty. Golden Eyes ↓$132.10 BIN. No known IDs ended. Auctions: 0 OPEN. Dealers unchanged.</p>
+<p class="caveat" style="color:var(--muted);font-size:.85rem;margin:8px 0 16px">eBay browser Art Prints path-style LIVE 68 buyable non-plate IDs. NEW (12): Wash Bears $129.95 + Totem Pole Owls $399.99 prints.com ~12h relists; plus Night Watch, Billy Club, Totem Pole 107/760 &amp; 299/760, Pickled Tink x2, Wash Bears 425/760, Skinny Dippin 556/850, Fandango, Running on Empty. Golden Eyes ↓$132.10 BIN. No known IDs ended. Auctions: 0 OPEN. Dealers unchanged. Facebook Marketplace +22 (separate channel; similar titles on eBay/dealers kept). Skipped untitled Powell picture posts and Bradford Exchange Moon Shadows (likely plate).</p>
 
 <section class="section-wrap theme-ap" data-theme="theme-ap"><h2 class="section" data-section="Artist proofs">Artist proofs</h2>
 <div class="grid">
@@ -1535,8 +1556,298 @@
 
 </div></section>
 
+<section class="section-wrap theme-fb" data-theme="theme-fb"><h2 class="section" data-section="Facebook Marketplace">Facebook Marketplace</h2>
+<div class="grid">
+<article class="card" data-kind="fb" data-text="catwalk signed/numbered, loa unknown facebook marketplace $3,000 wellington, co">
+<span class="badge">Marketplace</span>
+<div class="name">Catwalk</div>
+<div class="price">$3,000</div>
+<div class="meta">
+<span>Number</span><b>Signed/numbered, LOA</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Wellington, CO</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1730074031561541/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="fuzzball signed yes facebook marketplace $1,100 casper, wy">
+<span class="badge">Marketplace</span>
+<div class="name">Fuzzball</div>
+<div class="price">$1,100</div>
+<div class="meta">
+<span>Number</span><b>Signed</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Casper, WY</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/863558626512129/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="cotton balls signed limited edition yes facebook marketplace $850 casper, wy">
+<span class="badge">Marketplace</span>
+<div class="name">Cotton Balls</div>
+<div class="price">$850</div>
+<div class="meta">
+<span>Number</span><b>Signed limited edition</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Casper, WY</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1645426943232504/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="footloose signed/numbered unknown facebook marketplace $800 cheyenne, wy">
+<span class="badge">Marketplace</span>
+<div class="name">Footloose</div>
+<div class="price">$800</div>
+<div class="meta">
+<span>Number</span><b>Signed/numbered</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Cheyenne, WY</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1090940053371999/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="lyra 116/1300 unknown facebook marketplace $500 ships">
+<span class="badge">Marketplace</span>
+<div class="name">Lyra</div>
+<div class="price">$500</div>
+<div class="meta">
+<span>Number</span><b>116/1300</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Ships</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1108398759032104/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="fandango 1986 limited edition unknown facebook marketplace $500 casper, wy">
+<span class="badge">Marketplace</span>
+<div class="name">Fandango</div>
+<div class="price">$500</div>
+<div class="meta">
+<span>Number</span><b>1986 limited edition</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Casper, WY</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1788972918944457/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="apple dumpling — unknown facebook marketplace $400 gillette, wy">
+<span class="badge">Marketplace</span>
+<div class="name">Apple Dumpling</div>
+<div class="price">$400</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Gillette, WY</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1849788486193503/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="wash bears signed yes facebook marketplace $400 casper, wy">
+<span class="badge">Marketplace</span>
+<div class="name">Wash Bears</div>
+<div class="price">$400</div>
+<div class="meta">
+<span>Number</span><b>Signed</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Casper, WY</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1664890634602247/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="perfect size seven signed/numbered unknown facebook marketplace $325 laramie, wy">
+<span class="badge">Marketplace</span>
+<div class="name">Perfect Size Seven</div>
+<div class="price">$325</div>
+<div class="meta">
+<span>Number</span><b>Signed/numbered</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Laramie, WY</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1712742343105425/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="wolf &amp; ram 690/760 yes facebook marketplace $190 oklahoma city, ok">
+<span class="badge">Marketplace</span>
+<div class="name">Wolf &amp; Ram</div>
+<div class="price">$190</div>
+<div class="meta">
+<span>Number</span><b>690/760</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Oklahoma City, OK</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1299658294967987/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="studs signed/numbered yes facebook marketplace $175 colorado springs, co">
+<span class="badge">Marketplace</span>
+<div class="name">Studs</div>
+<div class="price">$175</div>
+<div class="meta">
+<span>Number</span><b>Signed/numbered</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Colorado Springs, CO</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1376553854467942/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="night shift signed/numbered yes facebook marketplace $150 ooltewah, tn">
+<span class="badge">Marketplace</span>
+<div class="name">Night Shift</div>
+<div class="price">$150</div>
+<div class="meta">
+<span>Number</span><b>Signed/numbered</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Ooltewah, TN</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/3477064379134684/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="whitetail buck signed, 1990 yes facebook marketplace $100 mohnton, pa">
+<span class="badge">Marketplace</span>
+<div class="name">Whitetail Buck</div>
+<div class="price">$100</div>
+<div class="meta">
+<span>Number</span><b>Signed, 1990</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Mohnton, PA</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1865028998205216/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="framed wildlife print — yes facebook marketplace $95 ships">
+<span class="badge">Marketplace</span>
+<div class="name">Framed wildlife print</div>
+<div class="price">$95</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Ships</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/4603372776599431/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="framed wolf print — yes facebook marketplace $90 ships">
+<span class="badge">Marketplace</span>
+<div class="name">Framed wolf print</div>
+<div class="price">$90</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Ships</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1056972623386149/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="eyes of the night light-up unknown facebook marketplace $75 ships">
+<span class="badge">Marketplace</span>
+<div class="name">Eyes of the Night</div>
+<div class="price">$75</div>
+<div class="meta">
+<span>Number</span><b>Light-up</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Ships</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/4033302450303919/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="moon shadows 102/1300 unknown facebook marketplace $75 clearfield, pa">
+<span class="badge">Marketplace</span>
+<div class="name">Moon Shadows</div>
+<div class="price">$75</div>
+<div class="meta">
+<span>Number</span><b>102/1300</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Clearfield, PA</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/2063318507891740/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="majesty in the snow — unknown facebook marketplace $75 dayton, oh">
+<span class="badge">Marketplace</span>
+<div class="name">Majesty in the Snow</div>
+<div class="price">$75</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Dayton, OH</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/2066343267422479/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="tom &amp; jerry signed limited edition unknown facebook marketplace $50 tulsa, ok">
+<span class="badge">Marketplace</span>
+<div class="name">Tom &amp; Jerry</div>
+<div class="price">$50</div>
+<div class="meta">
+<span>Number</span><b>Signed limited edition</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Tulsa, OK</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/28535885362719732/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="signed numbered print (title not shown) signed/numbered unknown facebook marketplace $50 st. paul, mn">
+<span class="badge">Marketplace</span>
+<div class="name">Signed numbered print (title not shown)</div>
+<div class="price">$50</div>
+<div class="meta">
+<span>Number</span><b>Signed/numbered</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>St. Paul, MN</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1447760460507436/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="wings of night / wilderness moon 2006 unknown facebook marketplace $49 ships">
+<span class="badge">Marketplace</span>
+<div class="name">Wings of Night / Wilderness Moon</div>
+<div class="price">$49</div>
+<div class="meta">
+<span>Number</span><b>2006</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>Ships</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1550555779517140/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="fb" data-text="majesty in the snow — unknown facebook marketplace $40 san angelo, tx">
+<span class="badge">Marketplace</span>
+<div class="name">Majesty in the Snow</div>
+<div class="price">$40</div>
+<div class="meta">
+<span>Number</span><b>—</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Facebook Marketplace</b>
+<span>Location</span><b>San Angelo, TX</b>
+</div>
+<a href="https://www.facebook.com/marketplace/item/1351964103724366/" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div></section>
+
 <footer>
-  <p>87 pieces · Updated 2026-10-01 (Mountain) · Paintings / oil·acrylic on canvas / prints·lithographs (esp. APs). No plates/figurines/ornaments. Currently for sale only.</p>
+  <p>109 pieces · Updated 2026-10-03 (Mountain) · Paintings / oil·acrylic on canvas / prints·lithographs (esp. APs). No plates/figurines/ornaments. Currently for sale only.</p>
   <p><a href="https://github.com/spade-stack/vivi-crandall-for-sale" style="color:var(--link)">source</a></p>
 </footer>
 </main>

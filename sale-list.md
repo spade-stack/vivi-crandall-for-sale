@@ -1,9 +1,11 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-10-01 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-03 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
 **eBay note:** Browser Art Prints path-style LIVE **68** buyable non-plate IDs. **NEW** (12): Wash Bears 336821677828 $129.95; Totem Pole Owls 820191715131 $399.99 (prints.com ~12h relists); plus Night Watch 256884699324, Billy Club 335180555917, Totem Pole 107/760 & 299/760, Pickled Tink x2, Wash Bears 425/760, Skinny Dippin 556/850, Fandango 281783569848, Running on Empty 115419570180. Golden Eyes 128073267853 ↓**$132.10 BIN**. No known IDs ended. Auctions: 0 OPEN. Dealers unchanged.
+
+**Facebook Marketplace (2026-10-03):** +22 listings, own section, price high→low. Kept even when a similar title is already on eBay or a dealer (separate channel). Skipped untitled $30 Powell “picture” posts and Bradford Exchange Moon Shadows (likely plate). Numbered Moon Shadows 102/1300 kept (print, not that plate).
 
 ## ★ Artist proofs
 
@@ -142,6 +144,33 @@ Open this folder’s `sale-grid.html` for the visual grid.
 |---|---|---|---|---|---|---|
 | Freezer Burn (1988) Nook & Cranny Series | 125/300 | Unknown | $125 | Beckman Gallery | live | [open](https://beckmangallery.com/products/freezer-burn-vivi-k-crandall) |
 
+## Facebook Marketplace
+
+| Name | Number | Framed | Price | Source | Location | Link |
+|---|---|---|---|---|---|---|
+| Catwalk | Signed/numbered, LOA | Unknown | $3,000 | Facebook Marketplace | Wellington, CO | [open](https://www.facebook.com/marketplace/item/1730074031561541/) |
+| Fuzzball | Signed | Yes | $1,100 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/863558626512129/) |
+| Cotton Balls | Signed limited edition | Yes | $850 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1645426943232504/) |
+| Footloose | Signed/numbered | Unknown | $800 | Facebook Marketplace | Cheyenne, WY | [open](https://www.facebook.com/marketplace/item/1090940053371999/) |
+| Lyra | 116/1300 | Unknown | $500 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1108398759032104/) |
+| Fandango | 1986 limited edition | Unknown | $500 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1788972918944457/) |
+| Apple Dumpling | — | Unknown | $400 | Facebook Marketplace | Gillette, WY | [open](https://www.facebook.com/marketplace/item/1849788486193503/) |
+| Wash Bears | Signed | Yes | $400 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1664890634602247/) |
+| Perfect Size Seven | Signed/numbered | Unknown | $325 | Facebook Marketplace | Laramie, WY | [open](https://www.facebook.com/marketplace/item/1712742343105425/) |
+| Wolf & Ram | 690/760 | Yes | $190 | Facebook Marketplace | Oklahoma City, OK | [open](https://www.facebook.com/marketplace/item/1299658294967987/) |
+| Studs | Signed/numbered | Yes | $175 | Facebook Marketplace | Colorado Springs, CO | [open](https://www.facebook.com/marketplace/item/1376553854467942/) |
+| Night Shift | Signed/numbered | Yes | $150 | Facebook Marketplace | Ooltewah, TN | [open](https://www.facebook.com/marketplace/item/3477064379134684/) |
+| Whitetail Buck | Signed, 1990 | Yes | $100 | Facebook Marketplace | Mohnton, PA | [open](https://www.facebook.com/marketplace/item/1865028998205216/) |
+| Framed wildlife print | — | Yes | $95 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/4603372776599431/) |
+| Framed wolf print | — | Yes | $90 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1056972623386149/) |
+| Eyes of the Night | Light-up | Unknown | $75 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/4033302450303919/) |
+| Moon Shadows | 102/1300 | Unknown | $75 | Facebook Marketplace | Clearfield, PA | [open](https://www.facebook.com/marketplace/item/2063318507891740/) |
+| Majesty in the Snow | — | Unknown | $75 | Facebook Marketplace | Dayton, OH | [open](https://www.facebook.com/marketplace/item/2066343267422479/) |
+| Tom & Jerry | Signed limited edition | Unknown | $50 | Facebook Marketplace | Tulsa, OK | [open](https://www.facebook.com/marketplace/item/28535885362719732/) |
+| Signed numbered print (title not shown) | Signed/numbered | Unknown | $50 | Facebook Marketplace | St. Paul, MN | [open](https://www.facebook.com/marketplace/item/1447760460507436/) |
+| Wings of Night / Wilderness Moon | 2006 | Unknown | $49 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1550555779517140/) |
+| Majesty in the Snow | — | Unknown | $40 | Facebook Marketplace | San Angelo, TX | [open](https://www.facebook.com/marketplace/item/1351964103724366/) |
+
 ## Open auctions (HiBid)
 
 _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
@@ -165,5 +194,5 @@ _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 2
 Dealers + auction sites; open/current only.
 
 ## Watch sources (every 3 days @ 9am MT)
-Dealers: eBay · Art Brokerage · Prints.com · ArtUSA · Gallery 601 · Kelly's · vivicrandall.com
+Dealers: eBay · Facebook Marketplace · Art Brokerage · Prints.com · ArtUSA · Gallery 601 · Kelly's · vivicrandall.com
 Auctions — REQUIRED full sweep every run (open lots only): HiBid · LiveAuctioneers · Invaluable · MutualArt · AuctionZip · Bidsquare · Heritage · estate / CTBids · estatesales · any other regional houses that surface for this artist
