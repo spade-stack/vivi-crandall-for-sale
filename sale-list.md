@@ -153,7 +153,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Cotton Balls | Signed limited edition | Yes | $850 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1645426943232504/) |
 | Footloose | Signed/numbered | Unknown | $800 | Facebook Marketplace | Cheyenne, WY | [open](https://www.facebook.com/marketplace/item/1090940053371999/) |
 | Lyra | 116/1300 | Unknown | $500 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1108398759032104/) |
-| Fandango | 1986 limited edition | Unknown | $500 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1788972918944457/) |
+| Fandango | 1986 limited edition | Yes | $500 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1788972918944457/) |
 | Apple Dumpling | — | Unknown | $400 | Facebook Marketplace | Gillette, WY | [open](https://www.facebook.com/marketplace/item/1849788486193503/) |
 | Wash Bears | Signed | Yes | $400 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1664890634602247/) |
 | Perfect Size Seven | Signed/numbered | Unknown | $325 | Facebook Marketplace | Laramie, WY | [open](https://www.facebook.com/marketplace/item/1712742343105425/) |
