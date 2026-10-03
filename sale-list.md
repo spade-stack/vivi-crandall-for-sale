@@ -7,6 +7,8 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 **Facebook Marketplace (2026-10-03):** +22 listings, own section, price high→low. Kept even when a similar title is already on eBay or a dealer (separate channel). Skipped untitled $30 Powell “picture” posts and Bradford Exchange Moon Shadows (likely plate). Numbered Moon Shadows 102/1300 kept (print, not that plate).
 
+**Craigslist (2026-10-03):** All 416 US city sites searched (queries “Vivi Crandall”, “Vivi K Crandall”, “vivicrandall”); 0 blocked. +5 cards from 2 posts. Roseville, MI lot is one posting listed at $1; the four Vivi prints have their own asking prices. Chicago Majesty in the Snow is framed. Seller photographed Fogged In only among the four. Skipped Bradford Bunny Tales plate, Eyes of Night plates, a Leader of the Pack figurine, and porcelain ornaments.
+
 ## ★ Artist proofs
 
 | Name | Number | Framed | Price | Source | Listed | Link |
@@ -171,6 +173,17 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Wings of Night / Wilderness Moon | 2006 | Unknown | $49 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1550555779517140/) |
 | Majesty in the Snow | — | Unknown | $40 | Facebook Marketplace | San Angelo, TX | [open](https://www.facebook.com/marketplace/item/1351964103724366/) |
 
+
+## Craigslist
+
+| Name | Number | Framed | Price | Source | Listed | Link |
+|---|---|---|---|---|---|---|
+| Belly Deep And Blowin | 300/670 | Unknown | $750 | Craigslist | Roseville, MI | [open](https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX) |
+| Fandango | 340/670 | Unknown | $460 | Craigslist | Roseville, MI | [open](https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX) |
+| Fogged In | 246/1300 | No | $225 | Craigslist | Roseville, MI | [open](https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX) |
+| Hang Gliding | 520/1300 | Unknown | $180 | Craigslist | Roseville, MI | [open](https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX) |
+| Majesty in the Snow | 1990 signed lithograph | Yes | $75 | Craigslist | Chicago, IL | [open](https://www.craigslist.org/view/d/chicago-1990-signed-vivi-crandall/dtjK5awxsDNnEFhnriD9jN) |
+
 ## Open auctions (HiBid)
 
 _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
@@ -194,5 +207,5 @@ _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 2
 Dealers + auction sites; open/current only.
 
 ## Watch sources (every 3 days @ 9am MT)
-Dealers: eBay · Facebook Marketplace · Art Brokerage · Prints.com · ArtUSA · Gallery 601 · Kelly's · vivicrandall.com
+Dealers: eBay · Facebook Marketplace · Craigslist · Art Brokerage · Prints.com · ArtUSA · Gallery 601 · Kelly's · vivicrandall.com
 Auctions — REQUIRED full sweep every run (open lots only): HiBid · LiveAuctioneers · Invaluable · MutualArt · AuctionZip · Bidsquare · Heritage · estate / CTBids · estatesales · any other regional houses that surface for this artist

@@ -355,6 +355,25 @@
   .chip.chip-fb { border-color: #b45309; color: #f59e0b; }
   .chip.chip-fb.active { background: #451a03; color: #fbbf24; border-color: #f59e0b; }
 
+  .theme-cl h2.section { color: #c4b5fd; border-left: 3px solid #a78bfa; padding-left: 10px; }
+  .theme-cl .card {
+    background: linear-gradient(165deg, #161022 0%, #241833 100%);
+    border-color: #6d28d9;
+    box-shadow: inset 0 0 0 1px #a78bfa22, 0 0 24px #a78bfa10;
+  }
+  .theme-cl .card .price { color: #c4b5fd; }
+  .theme-cl .badge { background: #3b0764; color: #ddd6fe; }
+  .theme-cl .card a { color: #ddd6fe; }
+  .theme-cl .section-wrap {
+    background: linear-gradient(90deg, #a78bfa14, transparent 55%);
+    border: 1px solid #6d28d955;
+    border-radius: 16px;
+    padding: 8px 14px 16px;
+    margin: 18px 0 8px;
+  }
+  .chip.chip-cl { border-color: #6d28d9; color: #c4b5fd; }
+  .chip.chip-cl.active { background: #2e1065; color: #ddd6fe; border-color: #a78bfa; }
+
 
   .card img.photo {
     width: 100%;
@@ -381,6 +400,7 @@
 <li><i style="background:#67e8f9"></i> Beckman</li>
 <li><i style="background:#f9a8d4"></i> Prints.com</li>
 <li><i style="background:#f59e0b"></i> Facebook Marketplace</li>
+<li><i style="background:#a78bfa"></i> Craigslist</li>
 <li><i style="background:#f472b6"></i> Open auctions</li>
 </ul>
 <div class="filters">
@@ -390,11 +410,12 @@
 <button class="chip chip-original" data-filter="original">Originals</button>
 <button class="chip chip-print" data-filter="print">Prints</button>
 <button class="chip chip-fb" data-filter="fb">Marketplace</button>
+<button class="chip chip-cl" data-filter="cl">Craigslist</button>
 <button class="chip chip-auction" data-filter="auction">Auctions</button>
 </div>
 </header>
 <main>
-<p class="caveat" style="color:var(--muted);font-size:.85rem;margin:8px 0 16px">eBay browser Art Prints path-style LIVE 68 buyable non-plate IDs. NEW (12): Wash Bears $129.95 + Totem Pole Owls $399.99 prints.com ~12h relists; plus Night Watch, Billy Club, Totem Pole 107/760 &amp; 299/760, Pickled Tink x2, Wash Bears 425/760, Skinny Dippin 556/850, Fandango, Running on Empty. Golden Eyes ↓$132.10 BIN. No known IDs ended. Auctions: 0 OPEN. Dealers unchanged. Facebook Marketplace +22 (separate channel; similar titles on eBay/dealers kept). Skipped untitled Powell picture posts and Bradford Exchange Moon Shadows (likely plate).</p>
+<p class="caveat" style="color:var(--muted);font-size:.85rem;margin:8px 0 16px">eBay browser Art Prints path-style LIVE 68 buyable non-plate IDs. NEW (12): Wash Bears $129.95 + Totem Pole Owls $399.99 prints.com ~12h relists; plus Night Watch, Billy Club, Totem Pole 107/760 &amp; 299/760, Pickled Tink x2, Wash Bears 425/760, Skinny Dippin 556/850, Fandango, Running on Empty. Golden Eyes ↓$132.10 BIN. No known IDs ended. Auctions: 0 OPEN. Dealers unchanged. Facebook Marketplace +22 (separate channel; similar titles on eBay/dealers kept). Skipped untitled Powell picture posts and Bradford Exchange Moon Shadows (likely plate). Craigslist: all 416 US sites searched. +5 (Roseville MI lot: Belly Deep $750, Fandango $460, Fogged In $225, Hang Gliding $180; Chicago Majesty in the Snow $75 framed). Plates and a figurine skipped. Seller did not photograph Hang Gliding, Fandango, or Belly Deep.</p>
 
 <section class="section-wrap theme-ap" data-theme="theme-ap"><h2 class="section" data-section="Artist proofs">Artist proofs</h2>
 <div class="grid">
@@ -1961,8 +1982,80 @@
 
 </div></section>
 
+
+<section class="section-wrap theme-cl" data-theme="theme-cl"><h2 class="section" data-section="Craigslist">Craigslist</h2>
+<div class="grid">
+<article class="card" data-kind="cl" data-text="belly deep and blowin 300/670 unknown craigslist $750 roseville, mi">
+<span class="badge">Craigslist</span>
+<div class="name">Belly Deep And Blowin</div>
+<div class="price">$750</div>
+<div class="meta">
+<span>Number</span><b>300/670</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Craigslist</b>
+<span>Location</span><b>Roseville, MI</b>
+</div>
+<a href="https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="cl" data-text="fandango 340/670 unknown craigslist $460 roseville, mi">
+<span class="badge">Craigslist</span>
+<div class="name">Fandango</div>
+<div class="price">$460</div>
+<div class="meta">
+<span>Number</span><b>340/670</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Craigslist</b>
+<span>Location</span><b>Roseville, MI</b>
+</div>
+<a href="https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="cl" data-text="fogged in 246/1300 no craigslist $225 roseville, mi">
+<img class="photo" src="img/cl-roseville-fogged-in.jpg" alt="Fogged In by Vivi K Crandall, hawk print in the Roseville lot" loading="lazy" />
+<span class="badge">Craigslist</span>
+<div class="name">Fogged In</div>
+<div class="price">$225</div>
+<div class="meta">
+<span>Number</span><b>246/1300</b>
+<span>Framed</span><b>No</b>
+<span>Source</span><b>Craigslist</b>
+<span>Location</span><b>Roseville, MI</b>
+</div>
+<a href="https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="cl" data-text="hang gliding 520/1300 unknown craigslist $180 roseville, mi">
+<span class="badge">Craigslist</span>
+<div class="name">Hang Gliding</div>
+<div class="price">$180</div>
+<div class="meta">
+<span>Number</span><b>520/1300</b>
+<span>Framed</span><b>Unknown</b>
+<span>Source</span><b>Craigslist</b>
+<span>Location</span><b>Roseville, MI</b>
+</div>
+<a href="https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+<article class="card" data-kind="cl" data-text="majesty in the snow 1990 signed lithograph yes craigslist $75 chicago, il">
+<img class="photo" src="img/cl-chicago-majesty.jpg" alt="1990 signed Vivi K Crandall Majesty in the Snow deer lithograph, framed" loading="lazy" />
+<span class="badge">Craigslist</span>
+<div class="name">Majesty in the Snow</div>
+<div class="price">$75</div>
+<div class="meta">
+<span>Number</span><b>1990 signed lithograph</b>
+<span>Framed</span><b>Yes</b>
+<span>Source</span><b>Craigslist</b>
+<span>Location</span><b>Chicago, IL</b>
+</div>
+<a href="https://www.craigslist.org/view/d/chicago-1990-signed-vivi-crandall/dtjK5awxsDNnEFhnriD9jN" target="_blank" rel="noopener">Open listing →</a>
+</article>
+
+</div></section>
+
 <footer>
-  <p>109 pieces · Updated 2026-10-03 (Mountain) · Paintings / oil·acrylic on canvas / prints·lithographs (esp. APs). No plates/figurines/ornaments. Currently for sale only.</p>
+  <p>114 pieces · Updated 2026-10-03 (Mountain) · Paintings / oil·acrylic on canvas / prints·lithographs (esp. APs). No plates/figurines/ornaments. Currently for sale only.</p>
   <p><a href="https://github.com/spade-stack/vivi-crandall-for-sale" style="color:var(--link)">source</a></p>
 </footer>
 </main>
