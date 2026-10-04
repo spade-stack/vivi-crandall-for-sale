@@ -1,13 +1,13 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-10-03 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-04 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
-**eBay note:** Browser Art Prints path-style LIVE **68** buyable non-plate IDs. **NEW** (12): Wash Bears 336821677828 $129.95; Totem Pole Owls 820191715131 $399.99 (prints.com ~12h relists); plus Night Watch 256884699324, Billy Club 335180555917, Totem Pole 107/760 & 299/760, Pickled Tink x2, Wash Bears 425/760, Skinny Dippin 556/850, Fandango 281783569848, Running on Empty 115419570180. Golden Eyes 128073267853 ↓**$132.10 BIN**. No known IDs ended. Auctions: 0 OPEN. Dealers unchanged.
+**eBay note:** Playwright Art Prints path-style LIVE **~69** buyable non-plate IDs. **NEW:** Skinny Dippin – Moose `336826345327` $249.99 BO (relist of ended `397665942089`); Fandango – Swan `398452652697` $359.99 BO. **REMOVED:** ended Skinny Dippin `397665942089`. Golden Eyes `128073267853` ↓**$131.92 BIN**. Marketplace 0Δ; Craigslist 0Δ; auctions **0 OPEN**; dealers mostly unchanged; **Prints.com unreachable** (timeout/504) — prior Prints.com rows kept; Shangrila unchanged pending confirm. vivicrandall.com still down. Do not add Frank McCarthy false positive.
 
-**Facebook Marketplace (2026-10-03):** +22 listings, own section, price high→low. Kept even when a similar title is already on eBay or a dealer (separate channel). Skipped untitled $30 Powell “picture” posts and Bradford Exchange Moon Shadows (likely plate). Numbered Moon Shadows 102/1300 kept (print, not that plate).
+**Facebook Marketplace (2026-10-04):** 22 prior listings still observed; **0 new, 0 removed**. Own section, price high→low. Kept even when a similar title is already on eBay or a dealer (separate channel). Skipped untitled $30 Powell “picture” posts and Bradford Exchange Moon Shadows (likely plate). Numbered Moon Shadows 102/1300 kept (print, not that plate).
 
-**Craigslist (2026-10-03):** All 416 US city sites searched (queries “Vivi Crandall”, “Vivi K Crandall”, “vivicrandall”); 0 blocked. +5 cards from 2 posts. Roseville, MI lot is one posting listed at $1; the four Vivi prints have their own asking prices. Chicago Majesty in the Snow is framed. Seller photographed Fogged In only among the four. Skipped Bradford Bunny Tales plate, Eyes of Night plates, a Leader of the Pack figurine, and porcelain ornaments.
+**Craigslist (2026-10-04):** All US city sites rechecked; **same 2 posts / 5 cards** still live (0Δ). Roseville, MI lot is one posting listed at $1; the four Vivi prints have their own asking prices. Chicago Majesty in the Snow is framed. Seller photographed Fogged In only among the four. Skipped Bradford Bunny Tales plate, Eyes of Night plates, a Leader of the Pack figurine, and porcelain ornaments.
 
 ## ★ Artist proofs
 
@@ -40,12 +40,13 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Totem Pole – Owls | — | Unknown | $399.99 BO | eBay | new | [open](https://www.ebay.com/itm/820191715131) |
 | Wascally Wabbit – Rabbit | — | Unknown | $399.99 BO | eBay | Aug 31 | [open](https://www.ebay.com/itm/398345547823) |
 | Dew Drop Inn – Owl | — | Unknown | $379.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336788864976) |
+| Fandango – Swan | — | Unknown | $359.99 BO | eBay | new | [open](https://www.ebay.com/itm/398452652697) |
 | Hot Cross Buns – Bears | — | Unknown | $349.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820104559469) |
 | Bull Rush – Buffalo | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/398379379325) |
 | Foxfire – Fox | — | Unknown | $299.99 BO | eBay | Mar 19 | [open](https://www.ebay.com/itm/397737750621) |
 | Lean Cuisine – Coyote | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820188275836) |
 | Billy Club – Mountain Goats | — | Unknown | $279.99 BO | eBay | Aug 27 | [open](https://www.ebay.com/itm/398331258374) |
-| Skinny Dippin – Moose | — | Unknown | $249.99 BO | eBay | Mar 1 | [open](https://www.ebay.com/itm/397665942089) |
+| Skinny Dippin – Moose | — | Unknown | $249.99 BO | eBay | new | [open](https://www.ebay.com/itm/336826345327) |
 | Finders Keepers – Wolves | — | Unknown | $239.99 BO | eBay | new | [open](https://www.ebay.com/itm/398442143675) |
 | Tunnel of Love – Bobcats | — | Unknown | $199.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336809934914) |
 | Running on Empty – Cougar | — | Unknown | $149.95 BO | eBay | relist | [open](https://www.ebay.com/itm/820140637423) |
@@ -96,7 +97,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Running on Empty | 1835 S/N ed. | Unknown | $170 BO | eBay | new | [open](https://www.ebay.com/itm/115419570180) |
 | Hot Date | S/N | Unknown | $155 BO | eBay | live | [open](https://www.ebay.com/itm/295741500341) |
 | Lean Cuisine – Coyote | S/N | Unknown | $155 BO | eBay | live | [open](https://www.ebay.com/itm/294817634766) |
-| Golden Eyes – Cougar (framed) | LE signed | Yes | $132.10 BIN | eBay | new | [open](https://www.ebay.com/itm/128073267853) |
+| Golden Eyes – Cougar (framed) | LE signed | Yes | $131.92 BIN | eBay | new | [open](https://www.ebay.com/itm/128073267853) |
 | Freezer Burn – Cougar (framed) | S/N | Yes | $99 BO | eBay | new | [open](https://www.ebay.com/itm/128080827494) |
 | Kits And Kaboodle (1991) | S/N | Unknown | $90 BIN | eBay | live | [open](https://www.ebay.com/itm/354091328693) |
 
@@ -190,18 +191,18 @@ _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 2
 
 
 ## Auction sweep notes
-- **HiBid:** **0 OPEN**. THE I.R.S. (321230331) **ENDED** — Price Realized **$160** (+18% BP). Keyword search + Chrome DOM: no currently-open Vivi lots.
-- **LiveAuctioneers:** Incapsula / challenge shell; no upcoming open Vivi lots verified.
+- **2026-10-04:** **0 OPEN** lots across required sweep. HiBid API totalCount **0** (both queries). LiveAuctioneers / Bidsquare **0** upcoming verified; Invaluable 0 for sale; MutualArt / AuctionZip 0; Heritage/Proxibid/CTBids/estatesales blocked or empty as usual.
+- **HiBid:** Prior THE I.R.S. (321230331) remains **ENDED** — Price Realized **$160** (+18% BP). No new open Vivi lots.
+- **LiveAuctioneers:** Incapsula / challenge; no upcoming open Vivi lots verified.
 - **Invaluable:** For Sale at Auction: **0**.
-- **MutualArt:** CAPTCHA blocked; indexed “upcoming” Northern Lights is past (sold Jul 25). No open lot verified.
-- **Bidsquare:** No open Vivi lots verified (Northern Lights past).
-- **AuctionZip:** 0 matching lots for keyword.
-- **Heritage:** HTTP 403 / bot wall (as usual).
-- **CTBids:** No Crandall content / connection fail.
-- **estatesales.net:** No Crandall content in results.
-- **Proxibid:** 404 / Incapsula (as usual). PrimeTime: past completed only.
-- **Kelly's:** Lot of 16 still **$7,500**. Standalone Shadow Play AP still sold (prior).
-- **Dealers:** Unchanged vs Sep 30 tracked rows. Prints.com **reachable again** (baseline 4 prices intact). Art Brokerage still 5 inquire; Gallery 601 Wash Bears $215 / Basket Case $195 / Indian Summer $195; ArtUSA Fuzzball $395 / Apple Dumplin' $245 / Wash Bears $225; Beckman Freezer Burn $125 InStock. vivicrandall.com **down** (HTTP 500 / connection closed).
+- **MutualArt:** No works for sale / CAPTCHA; no open lot verified.
+- **Bidsquare:** No open Vivi lots verified.
+- **AuctionZip:** 0 matching lots.
+- **Heritage / Proxibid:** HTTP 403 / Incapsula (as usual).
+- **CTBids / estatesales.net:** No Crandall content / JS shells.
+- **Kelly's:** Lot of 16 still **$7,500**.
+- **Dealers:** Art Brokerage / ArtUSA / Gallery 601 / Beckman / Kelly’s unchanged. **Prints.com unreachable** (timeout/504/browser timeout) — existing Prints.com rows kept at prior prices; Shangrila **not** changed on unconfirmed index rumor. vivicrandall.com still **down**.
+
 
 ## Watch (every 3 days @ 9am MT)
 Dealers + auction sites; open/current only.
