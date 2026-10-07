@@ -1,13 +1,13 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-10-04 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-07 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
 
-**eBay note:** Playwright Art Prints path-style LIVE **~69** buyable non-plate IDs. **NEW:** Skinny Dippin – Moose `336826345327` $249.99 BO (relist of ended `397665942089`); Fandango – Swan `398452652697` $359.99 BO. **REMOVED:** ended Skinny Dippin `397665942089`. Golden Eyes `128073267853` ↓**$131.92 BIN**. Marketplace 0Δ; Craigslist 0Δ; auctions **0 OPEN**; dealers mostly unchanged; **Prints.com unreachable** (timeout/504) — prior Prints.com rows kept; Shangrila unchanged pending confirm. vivicrandall.com still down. Do not add Frank McCarthy false positive.
+**eBay note (2026-10-07):** Three searches (quoted, `vivi k crandall`, Art category) — all 69 known IDs still seen live. **NEW:** Snow Blind `237052229118` $500 BO (Viki K. Crandall signed LE numbered litho, number not stated; seller jer-3735; listed Sep 5) — separate from Snow Blind `166131386772` and prints.com `336785838781`. Golden Eyes `128073267853` shows C$188 ≈ US$132.32 (currency drift; kept $131.92). Prints.com reachable again — Shangrila confirmed **$379.95** (unchanged). Craigslist 0Δ; auctions **0 OPEN**; dealers unchanged; vivicrandall.com still down. Do not add Frank McCarthy false positive.
 
-**Facebook Marketplace (2026-10-04):** 22 prior listings still observed; **0 new, 0 removed**. Own section, price high→low. Kept even when a similar title is already on eBay or a dealer (separate channel). Skipped untitled $30 Powell “picture” posts and Bradford Exchange Moon Shadows (likely plate). Numbered Moon Shadows 102/1300 kept (print, not that plate).
+**Facebook Marketplace (2026-10-07):** All 4 centers (Cheyenne, Dallas, Chicago, New York) at 500 mi; **0 new, 2 removed** → 20 listings. **REMOVED:** Tom & Jerry $50 Tulsa OK `28535885362719732` (listing no longer available); Wings of Night / Wilderness Moon $49 `1550555779517140` (confirmed collector plate — plates excluded). Own section, price high→low. Kept even when a similar title is already on eBay or a dealer (separate channel). Skipped untitled $30 Powell “picture” posts and Bradford Exchange Moon Shadows (likely plate). Numbered Moon Shadows 102/1300 kept (print, not that plate).
 
-**Craigslist (2026-10-04):** All US city sites rechecked; **same 2 posts / 5 cards** still live (0Δ). Roseville, MI lot is one posting listed at $1; the four Vivi prints have their own asking prices. Chicago Majesty in the Snow is framed. Seller photographed Fogged In only among the four. Skipped Bradford Bunny Tales plate, Eyes of Night plates, a Leader of the Pack figurine, and porcelain ornaments.
+**Craigslist (2026-10-07):** All 416 US city sites rechecked (0 blocked); **same 2 posts / 5 cards** still live (0Δ; Roseville post updated Oct 6, prices same). Roseville, MI lot is one posting listed at $1; the four Vivi prints have their own asking prices. Chicago Majesty in the Snow is framed. Seller photographed Fogged In only among the four. Skipped Bradford Bunny Tales plate, Eyes of Night plates, a Leader of the Pack figurine, and porcelain ornaments.
 
 ## ★ Artist proofs
 
@@ -61,6 +61,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Lady in Red (sold-out edition) | Sold out LE | Unknown | $699 BO | eBay | new | [open](https://www.ebay.com/itm/187318511958) |
 | Bunny Berries | 200/760 | Unknown | $525 BO | eBay | Jan 29 | [open](https://www.ebay.com/itm/263465869147) |
 | Snow Blind – Cougar | — | Yes | $500 BO | eBay | live | [open](https://www.ebay.com/itm/166131386772) |
+| Snow Blind | Numbered (not stated) | Unknown | $500 BO | eBay (jer-3735) | Sep 5 | [open](https://www.ebay.com/itm/237052229118) |
 | Swat Team – Cats | — | Pictured framed | $425 BO | eBay | live | [open](https://www.ebay.com/itm/388603976986) |
 | Fuzzball – Rabbit (LTD ED) | LTD ED | Unknown | $425 BO | eBay | new | [open](https://www.ebay.com/itm/295466140108) |
 | Night Watch | 618/760 | Unknown | $399.99 BO | eBay | new | [open](https://www.ebay.com/itm/256884699324) |
@@ -169,9 +170,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Eyes of the Night | Light-up | Unknown | $75 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/4033302450303919/) |
 | Moon Shadows | 102/1300 | Unknown | $75 | Facebook Marketplace | Clearfield, PA | [open](https://www.facebook.com/marketplace/item/2063318507891740/) |
 | Majesty in the Snow | — | Unknown | $75 | Facebook Marketplace | Dayton, OH | [open](https://www.facebook.com/marketplace/item/2066343267422479/) |
-| Tom & Jerry | Signed limited edition | Unknown | $50 | Facebook Marketplace | Tulsa, OK | [open](https://www.facebook.com/marketplace/item/28535885362719732/) |
 | Signed numbered print (title not shown) | Signed/numbered | Unknown | $50 | Facebook Marketplace | St. Paul, MN | [open](https://www.facebook.com/marketplace/item/1447760460507436/) |
-| Wings of Night / Wilderness Moon | 2006 | Unknown | $49 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1550555779517140/) |
 | Majesty in the Snow | — | Unknown | $40 | Facebook Marketplace | San Angelo, TX | [open](https://www.facebook.com/marketplace/item/1351964103724366/) |
 
 
@@ -191,6 +190,7 @@ _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 2
 
 
 ## Auction sweep notes
+- **2026-10-07:** **0 OPEN** lots across required sweep — HiBid (API 0 for both queries; HiBid 324661136 is **Jerry** Crandall, excluded), LiveAuctioneers (search API 0; no upcoming), Invaluable (For Sale 0), MutualArt (no upcoming), AuctionZip 0, Bidsquare 0, Heritage 0 available, Proxibid (only hit a Bradford Mystic Spirit Wolf plate — excluded), CTBids no results, estatesales.net (no Vivi lot), MaxSold no results.
 - **2026-10-04:** **0 OPEN** lots across required sweep. HiBid API totalCount **0** (both queries). LiveAuctioneers / Bidsquare **0** upcoming verified; Invaluable 0 for sale; MutualArt / AuctionZip 0; Heritage/Proxibid/CTBids/estatesales blocked or empty as usual.
 - **HiBid:** Prior THE I.R.S. (321230331) remains **ENDED** — Price Realized **$160** (+18% BP). No new open Vivi lots.
 - **LiveAuctioneers:** Incapsula / challenge; no upcoming open Vivi lots verified.
@@ -201,7 +201,7 @@ _None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 2
 - **Heritage / Proxibid:** HTTP 403 / Incapsula (as usual).
 - **CTBids / estatesales.net:** No Crandall content / JS shells.
 - **Kelly's:** Lot of 16 still **$7,500**.
-- **Dealers:** Art Brokerage / ArtUSA / Gallery 601 / Beckman / Kelly’s unchanged. **Prints.com unreachable** (timeout/504/browser timeout) — existing Prints.com rows kept at prior prices; Shangrila **not** changed on unconfirmed index rumor. vivicrandall.com still **down**.
+- **Dealers:** Art Brokerage / ArtUSA / Gallery 601 / Beckman / Kelly’s unchanged. (2026-10-04: Prints.com unreachable.) **2026-10-07:** Prints.com reachable — Shangrila confirmed **$379.95**, others unchanged. vivicrandall.com still **down**.
 
 
 ## Watch (every 3 days @ 9am MT)
