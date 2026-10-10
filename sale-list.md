@@ -1,7 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-10-07 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-10 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
+
+**2026-10-10 update:** **NEW OPEN AUCTION (original):** “Puppy Folly” (1993), original oil on canvas 16×16 in, signed & dated, frame not stated — Bidsquare / Coeur d'Alene Art Auction, Lot 87, live online sale **Nov 7, 2026**; est $1,000–$1,500, start $500, 0 bids, 21% BP (listed under Original paintings). **eBay:** 3 searches, all 70 known IDs live, **0 new**; Rams oil `306373740237` **$4,300 → $4,250 BO**. **Facebook Marketplace:** 4 centers @500 mi, both queries, **0Δ** (20 listings; Wolf & Ram confirmed live via direct open). **Craigslist:** 416 US sites × 3 queries, 0 blocked; **+1** Studs (The Dating Game) 331/450 framed $175 Colorado Springs (likely same seller as FB Studs; separate channel, both kept) → **3 posts / 6 cards**. **Dealers:** 0Δ (Kelly's still $7,500; Prints.com catalog identical). vivicrandall.com still down.
 
 **eBay note (2026-10-07):** Three searches (quoted, `vivi k crandall`, Art category) — all 69 known IDs still seen live. **NEW:** Snow Blind `237052229118` $500 BO (Viki K. Crandall signed LE numbered litho, number not stated; seller jer-3735; listed Sep 5) — separate from Snow Blind `166131386772` and prints.com `336785838781`. Golden Eyes `128073267853` shows C$188 ≈ US$132.32 (currency drift; kept $131.92). Prints.com reachable again — Shangrila confirmed **$379.95** (unchanged). Craigslist 0Δ; auctions **0 OPEN**; dealers unchanged; vivicrandall.com still down. Do not add Frank McCarthy false positive.
 
@@ -24,8 +26,9 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Rams in a Mountain Landscape | Original oil on canvas | Unknown | $4,300 BO | eBay | Jun 29 | [open](https://www.ebay.com/itm/306373740237) |
+| Rams in a Mountain Landscape | Original oil on canvas | Unknown | $4,250 BO | eBay | Jun 29 | [open](https://www.ebay.com/itm/306373740237) |
 | Untitled Cougar Portrait (1996) | Original acrylic on canvas | Yes | Inquire ~$2,000 | Art Brokerage | restored | [open](https://www.artbrokerage.com/Vivi-Crandall) |
+| Puppy Folly (1993) — **OPEN AUCTION** | Original oil on canvas, 16×16 in, signed & dated | Not stated | Est $1,000–$1,500 · start $500 (0 bids) +21% BP | Bidsquare / Coeur d'Alene Art Auction, Lot 87 | live online Nov 7, 2026 | [open](https://www.bidsquare.com/online-auctions/coeur-dalene/vivi-crandall-1946-2000-puppy-folly-1993-9979365) |
 
 ## Newest eBay (prints.com)
 
@@ -182,14 +185,16 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Fandango | 340/670 | Unknown | $460 | Craigslist | Roseville, MI | [open](https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX) |
 | Fogged In | 246/1300 | No | $225 | Craigslist | Roseville, MI | [open](https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX) |
 | Hang Gliding | 520/1300 | Unknown | $180 | Craigslist | Roseville, MI | [open](https://www.craigslist.org/view/d/roseville-52-signed-art-prints/qGv2yh3hofZViRCNE9EnqX) |
+| Studs (The Dating Game) | 331/450 | Yes (frame 42½×22½", print 35×15") | $175 | Craigslist | Colorado Springs, CO (posted Oct 9) | [open](https://www.craigslist.org/view/d/colorado-springs-vivi-crandall-signed/o4wxWYaVgjXE5Y6u1DeZtx) |
 | Majesty in the Snow | 1990 signed lithograph | Yes | $75 | Craigslist | Chicago, IL | [open](https://www.craigslist.org/view/d/chicago-1990-signed-vivi-crandall/dtjK5awxsDNnEFhnriD9jN) |
 
-## Open auctions (HiBid)
+## Open auctions
 
-_None currently open._ HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
+**Puppy Folly (1993)** original oil — Bidsquare / Coeur d'Alene Art Auction Lot 87, live online **Nov 7, 2026**, est $1,000–$1,500, start $500, 0 bids, 21% BP (card in Original paintings). No other open lots. HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
 
 
 ## Auction sweep notes
+- **2026-10-10:** **1 OPEN** lot — Bidsquare: Vivi Crandall “Puppy Folly” (1993) original oil, Coeur d'Alene Art Auction Lot 87, Nov 7 (7 past Bidsquare lots ignored). Otherwise 0: HiBid API 0 (both queries; broad "Crandall" no Vivi), LiveAuctioneers 0 upcoming (Jerry Crandall suggestions excluded), Invaluable 0 for sale, MutualArt 0 upcoming, AuctionZip 0 (Anywhere), Heritage 0 available, Proxibid only a Bradford Mystic Spirit Wolf plate (excluded), CTBids 0, estatesales.net 0 Vivi (Michael's Gallery Oct 17 = Jerry Crandall), MaxSold 0 (125 mi radius limit), BidSpotter 0.
 - **2026-10-07:** **0 OPEN** lots across required sweep — HiBid (API 0 for both queries; HiBid 324661136 is **Jerry** Crandall, excluded), LiveAuctioneers (search API 0; no upcoming), Invaluable (For Sale 0), MutualArt (no upcoming), AuctionZip 0, Bidsquare 0, Heritage 0 available, Proxibid (only hit a Bradford Mystic Spirit Wolf plate — excluded), CTBids no results, estatesales.net (no Vivi lot), MaxSold no results.
 - **2026-10-04:** **0 OPEN** lots across required sweep. HiBid API totalCount **0** (both queries). LiveAuctioneers / Bidsquare **0** upcoming verified; Invaluable 0 for sale; MutualArt / AuctionZip 0; Heritage/Proxibid/CTBids/estatesales blocked or empty as usual.
 - **HiBid:** Prior THE I.R.S. (321230331) remains **ENDED** — Price Realized **$160** (+18% BP). No new open Vivi lots.
