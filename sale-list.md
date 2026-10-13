@@ -1,7 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-10-10 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-13 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
+
+**2026-10-13 update:** **eBay:** 3 searches (quoted, `vivi k crandall`, Art category), **69/70** known IDs live; **+1 new** — “Tunnel of Love” (1989) offset litho, bobcat kittens, signed & numbered **803/850**, framed (oak, double mat), **$400 BIN** (no BO), seller hic-et-nuncllc, Milwaukee WI, listed ~Sep 2 (`318816286985`; eBay title only “Limited edition vintage print”, so earlier sweeps missed it) → Other eBay S/N prints; **1 sold** — Finders Keepers – Wolves `398442143675` $239.99 BO sold Oct 13 6:10am (removed). Golden Eyes `128073267853` FX drift to US$131.63 (card left at $131.92). **Facebook Marketplace:** 4 centers (Cheyenne, Dallas, Chicago, New York) @500 mi, both queries, **+2** → 22 listings: **Northern Lights** 727/940 framed 34×34, used – like new, **$2,000**, Casper WY (listed Oct 12); **Tunnel of Love** (1989) 803/850 signed, framed oak double mat, **$400**, Milwaukee WI (listed ~7 wks ago; same piece as the eBay listing — separate channel, both kept). Perfect Size Seven and Wolf & Ram not in search results but confirmed live by direct open. **Craigslist:** 416 US sites × 3 queries, 0 blocked, **0Δ** (3 posts / 6 cards). **Dealers:** 0Δ. **Auctions:** only Puppy Folly open (now confirmed **framed 28×28×2 in** per cdaartauction.com; 0 bids; live online Nov 7, 2026 1:00pm MT); HiBid’s only Vivi hit 325962225 = Bradford plates (excluded). **Blocked/limited surfaces:** Bidsquare site search timed out (lot page fine); MaxSold radius-limited (125 mi of Denver); vivicrandall.com 500.
 
 **2026-10-10 update:** **NEW OPEN AUCTION (original):** “Puppy Folly” (1993), original oil on canvas 16×16 in, signed & dated, frame not stated — Bidsquare / Coeur d'Alene Art Auction, Lot 87, live online sale **Nov 7, 2026**; est $1,000–$1,500, start $500, 0 bids, 21% BP (listed under Original paintings). **eBay:** 3 searches, all 70 known IDs live, **0 new**; Rams oil `306373740237` **$4,300 → $4,250 BO**. **Facebook Marketplace:** 4 centers @500 mi, both queries, **0Δ** (20 listings; Wolf & Ram confirmed live via direct open). **Craigslist:** 416 US sites × 3 queries, 0 blocked; **+1** Studs (The Dating Game) 331/450 framed $175 Colorado Springs (likely same seller as FB Studs; separate channel, both kept) → **3 posts / 6 cards**. **Dealers:** 0Δ (Kelly's still $7,500; Prints.com catalog identical). vivicrandall.com still down.
 
@@ -28,7 +30,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 |---|---|---|---|---|---|---|
 | Rams in a Mountain Landscape | Original oil on canvas | Unknown | $4,250 BO | eBay | Jun 29 | [open](https://www.ebay.com/itm/306373740237) |
 | Untitled Cougar Portrait (1996) | Original acrylic on canvas | Yes | Inquire ~$2,000 | Art Brokerage | restored | [open](https://www.artbrokerage.com/Vivi-Crandall) |
-| Puppy Folly (1993) — **OPEN AUCTION** | Original oil on canvas, 16×16 in, signed & dated | Not stated | Est $1,000–$1,500 · start $500 (0 bids) +21% BP | Bidsquare / Coeur d'Alene Art Auction, Lot 87 | live online Nov 7, 2026 | [open](https://www.bidsquare.com/online-auctions/coeur-dalene/vivi-crandall-1946-2000-puppy-folly-1993-9979365) |
+| Puppy Folly (1993) — **OPEN AUCTION** | Original oil on canvas, 16×16 in, signed & dated | Yes (framed 28×28×2 in per cdaartauction.com) | Est $1,000–$1,500 · start $500 (0 bids) +21% BP | Bidsquare / Coeur d'Alene Art Auction, Lot 87 | live online Nov 7, 2026, 1:00pm MT | [open](https://www.bidsquare.com/online-auctions/coeur-dalene/vivi-crandall-1946-2000-puppy-folly-1993-9979365) |
 
 ## Newest eBay (prints.com)
 
@@ -50,7 +52,6 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Lean Cuisine – Coyote | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820188275836) |
 | Billy Club – Mountain Goats | — | Unknown | $279.99 BO | eBay | Aug 27 | [open](https://www.ebay.com/itm/398331258374) |
 | Skinny Dippin – Moose | — | Unknown | $249.99 BO | eBay | new | [open](https://www.ebay.com/itm/336826345327) |
-| Finders Keepers – Wolves | — | Unknown | $239.99 BO | eBay | new | [open](https://www.ebay.com/itm/398442143675) |
 | Tunnel of Love – Bobcats | — | Unknown | $199.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336809934914) |
 | Running on Empty – Cougar | — | Unknown | $149.95 BO | eBay | relist | [open](https://www.ebay.com/itm/820140637423) |
 | Wash Bears – Raccoons | — | Unknown | $129.95 BO | eBay | new | [open](https://www.ebay.com/itm/336821677828) |
@@ -67,6 +68,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Snow Blind | Numbered (not stated) | Unknown | $500 BO | eBay (jer-3735) | Sep 5 | [open](https://www.ebay.com/itm/237052229118) |
 | Swat Team – Cats | — | Pictured framed | $425 BO | eBay | live | [open](https://www.ebay.com/itm/388603976986) |
 | Fuzzball – Rabbit (LTD ED) | LTD ED | Unknown | $425 BO | eBay | new | [open](https://www.ebay.com/itm/295466140108) |
+| Tunnel of Love (1989) – Bobcat kittens | 803/850 S/N offset litho | Yes (oak, double mat) | $400 BIN | eBay (hic-et-nuncllc, Milwaukee WI) | new (listed ~Sep 2) | [open](https://www.ebay.com/itm/318816286985) |
 | Night Watch | 618/760 | Unknown | $399.99 BO | eBay | new | [open](https://www.ebay.com/itm/256884699324) |
 | THE BILLY CLUB litho | LE hand signed | Unknown | $399.99 BIN | eBay | new | [open](https://www.ebay.com/itm/335180555917) |
 | Fuzz Ball | 85/850 | Unknown | $395 BO | eBay | new | [open](https://www.ebay.com/itm/263579309390) |
@@ -156,6 +158,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Name | Number | Framed | Price | Source | Location | Link |
 |---|---|---|---|---|---|---|
 | Catwalk | Signed/numbered, LOA | Unknown | $3,000 | Facebook Marketplace | Wellington, CO | [open](https://www.facebook.com/marketplace/item/1730074031561541/) |
+| Northern Lights | 727/940 | Yes (34×34) | $2,000 | Facebook Marketplace (new, listed Oct 12) | Casper, WY | [open](https://www.facebook.com/marketplace/item/1117367754567152/) |
 | Fuzzball | Signed | Yes | $1,100 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/863558626512129/) |
 | Cotton Balls | Signed limited edition | Yes | $850 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1645426943232504/) |
 | Footloose | Signed/numbered | Unknown | $800 | Facebook Marketplace | Cheyenne, WY | [open](https://www.facebook.com/marketplace/item/1090940053371999/) |
@@ -163,6 +166,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Fandango | 1986 limited edition | Yes | $500 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1788972918944457/) |
 | Apple Dumpling | — | Unknown | $400 | Facebook Marketplace | Gillette, WY | [open](https://www.facebook.com/marketplace/item/1849788486193503/) |
 | Wash Bears | Signed | Yes | $400 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1664890634602247/) |
+| Tunnel of Love (1989) | 803/850, signed | Yes (oak, double mat) | $400 | Facebook Marketplace (new; same piece as eBay 318816286985) | Milwaukee, WI | [open](https://www.facebook.com/marketplace/item/1062758983166757/) |
 | Perfect Size Seven | Signed/numbered | Unknown | $325 | Facebook Marketplace | Laramie, WY | [open](https://www.facebook.com/marketplace/item/1712742343105425/) |
 | Wolf & Ram | 690/760 | Yes | $190 | Facebook Marketplace | Oklahoma City, OK | [open](https://www.facebook.com/marketplace/item/1299658294967987/) |
 | Studs | Signed/numbered | Yes | $175 | Facebook Marketplace | Colorado Springs, CO | [open](https://www.facebook.com/marketplace/item/1376553854467942/) |
@@ -190,10 +194,11 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 ## Open auctions
 
-**Puppy Folly (1993)** original oil — Bidsquare / Coeur d'Alene Art Auction Lot 87, live online **Nov 7, 2026**, est $1,000–$1,500, start $500, 0 bids, 21% BP (card in Original paintings). No other open lots. HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
+**Puppy Folly (1993)** original oil, framed 28×28×2 in — Bidsquare / Coeur d'Alene Art Auction Lot 87, live online **Nov 7, 2026, 1:00pm MT**, est $1,000–$1,500, start $500, 0 bids, 21% BP (card in Original paintings). No other open lots. HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
 
 
 ## Auction sweep notes
+- **2026-10-13:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; confirmed framed 28×28×2 in per cdaartauction.com; 0 bids; Nov 7 1:00pm MT). Bidsquare site search timed out (lot page fine). Otherwise 0: HiBid 1 Vivi hit 325962225 = Bradford plates (excluded), LiveAuctioneers 0 upcoming (8 past; Jerry Crandall suggestions), Invaluable 0, MutualArt only Puppy Folly, Heritage 0, Proxibid only Bradford Mystic Spirit Wolf plate (excluded), BidSpotter 0, CTBids 0, AuctionZip 0 (Anywhere), estatesales.net 0 Vivi (Michael's Gallery Oct 17 = Jerry Crandall), MaxSold 0 (125 mi radius limit).
 - **2026-10-10:** **1 OPEN** lot — Bidsquare: Vivi Crandall “Puppy Folly” (1993) original oil, Coeur d'Alene Art Auction Lot 87, Nov 7 (7 past Bidsquare lots ignored). Otherwise 0: HiBid API 0 (both queries; broad "Crandall" no Vivi), LiveAuctioneers 0 upcoming (Jerry Crandall suggestions excluded), Invaluable 0 for sale, MutualArt 0 upcoming, AuctionZip 0 (Anywhere), Heritage 0 available, Proxibid only a Bradford Mystic Spirit Wolf plate (excluded), CTBids 0, estatesales.net 0 Vivi (Michael's Gallery Oct 17 = Jerry Crandall), MaxSold 0 (125 mi radius limit), BidSpotter 0.
 - **2026-10-07:** **0 OPEN** lots across required sweep — HiBid (API 0 for both queries; HiBid 324661136 is **Jerry** Crandall, excluded), LiveAuctioneers (search API 0; no upcoming), Invaluable (For Sale 0), MutualArt (no upcoming), AuctionZip 0, Bidsquare 0, Heritage 0 available, Proxibid (only hit a Bradford Mystic Spirit Wolf plate — excluded), CTBids no results, estatesales.net (no Vivi lot), MaxSold no results.
 - **2026-10-04:** **0 OPEN** lots across required sweep. HiBid API totalCount **0** (both queries). LiveAuctioneers / Bidsquare **0** upcoming verified; Invaluable 0 for sale; MutualArt / AuctionZip 0; Heritage/Proxibid/CTBids/estatesales blocked or empty as usual.
