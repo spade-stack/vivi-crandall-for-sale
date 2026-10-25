@@ -1,7 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-10-22 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-25 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
+
+**2026-10-25 update:** **eBay:** **+2** prints.com relists (seller PRINTS.COM, Milwaukee WI, listed within last 3 days) — **Foxfire – Fox, Artist's Proof on Paper** AP (no number), framing not stated, **$449.99** BIN/BO `820267833090` (relist of ended `358352604889`) and **Foxfire – Fox**, edition/framing not stated, **$299.99** BIN/BO `820267833012` (relist of `397737750621`); all 67 other known IDs live, prices unchanged → 69 known IDs. **Facebook Marketplace:** 22 live, **0 new**; price change **Fuzzball (1995) 65/85** Douglas WY `1416415274037454` **$1,200 → $800** (Facebook search weak this run; Chicago center radius unconfirmed). **Craigslist:** 416 US sites × 3 queries, 0 blocked, **0Δ**. **Dealers:** **0Δ**, but Prints.com timed out (unverified, kept as-is); vivicrandall.com down. **Auctions:** only Puppy Folly open (0 bids, Nov 7 1:00pm MT). **Blocked/inconclusive:** Heritage 403, MaxSold Cloudflare, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
 
 **2026-10-22 update:** **eBay:** quoted + `vivi k crandall` + Art cat 550 newest (headful Chrome; headless got 403); **67/70** known IDs live, **0 new**, **3 ended** (seller ended Mon Oct 19 3:33pm MT) — **REMOVED** Foxfire – Fox **Artist's Proof** on paper `358352604889` $449.99 BO, Cotton Candy – Deer `397737750555` $399.99 BO, Foxfire – Fox `397737750621` $299.99 BO (no relists found). All other prices unchanged. **Dealers:** **+1** Beckman Gallery “Hot Date” (1988) Nook & Cranny Series, paper 7.5×10 in, edition not stated, framing not stated, **$50** (product dates to Dec 2023 — newly surfaced, not newly listed). Others unchanged. **Facebook Marketplace:** **REMOVED** Elk in the Morning Mist 669/850 $3,000 Douglas WY `1448718890536574` (“This listing isn't available anymore”); **+1** **Fandango** signed LE **309/670**, hand-signed in gold ink, **unframed** (protective envelope), 30×23.5 in, **$68**, Longmont CO (`2220664628858649`, listed ~Oct 20) → 22 listings. All other Marketplace prices verified unchanged. Untitled $30 Powell WY “picture” posts still excluded. **Craigslist:** 416 US sites × 3 queries, 0 blocked, **0Δ** (Roseville updated Oct 21, prices same). **Auctions:** only Puppy Folly open (0 bids, Nov 7 1:00pm MT).
 
@@ -28,6 +30,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Night Shift AP on Paper | AP | Unknown | $949.95 | Prints.com | — | [open](https://www.prints.com/prints.php/Vivi_Crandall/Night_Shift/?artist_id=2367&print_id=23085) |
 | Buddy System Artist Print | #400/760 | Matte | $680 BO | eBay | Jan 6 | [open](https://www.ebay.com/itm/296927806785) |
 | Bunny Berries AP | AP | Unknown | $475 BIN | eBay | Jun 25 | [open](https://www.ebay.com/itm/284488585547) |
+| Foxfire – Fox, Artist's Proof on Paper | AP (no number) | Not stated | $449.99 BIN/BO | eBay (PRINTS.COM, Milwaukee WI) | new Oct 25 (relist of 358352604889) | [open](https://www.ebay.com/itm/820267833090) |
 
 ## Original paintings
 
@@ -53,6 +56,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Hot Cross Buns – Bears | — | Unknown | $349.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820104559469) |
 | Bull Rush – Buffalo | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/398379379325) |
 | Lean Cuisine – Coyote | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820188275836) |
+| Foxfire – Fox | Not stated | Not stated | $299.99 BIN/BO | eBay (PRINTS.COM, Milwaukee WI) | new Oct 25 (relist of 397737750621) | [open](https://www.ebay.com/itm/820267833012) |
 | Billy Club – Mountain Goats | — | Unknown | $279.99 BO | eBay | Aug 27 | [open](https://www.ebay.com/itm/398331258374) |
 | Skinny Dippin – Moose | — | Unknown | $249.99 BO | eBay | new | [open](https://www.ebay.com/itm/336826345327) |
 | Tunnel of Love – Bobcats | — | Unknown | $199.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336809934914) |
@@ -161,10 +165,10 @@ Open this folder’s `sale-grid.html` for the visual grid.
 |---|---|---|---|---|---|---|
 | Catwalk | Signed/numbered, LOA | Unknown | $3,000 | Facebook Marketplace | Wellington, CO | [open](https://www.facebook.com/marketplace/item/1730074031561541/) |
 | Northern Lights | 727/940 | Yes (34×34) | $2,000 | Facebook Marketplace (new, listed Oct 12) | Casper, WY | [open](https://www.facebook.com/marketplace/item/1117367754567152/) |
-| Fuzzball (1995) | 65/85, signed | Yes (frame 22.5×18.5, print 16×12) | $1,200 | Facebook Marketplace (new Oct 19; separate from Casper $1,100) | Douglas, WY | [open](https://www.facebook.com/marketplace/item/1416415274037454/) |
 | Fuzzball | Signed | Yes | $1,100 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/863558626512129/) |
 | Cotton Balls | Signed limited edition | Yes | $850 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1645426943232504/) |
 | Footloose | Signed/numbered | Unknown | $800 | Facebook Marketplace | Cheyenne, WY | [open](https://www.facebook.com/marketplace/item/1090940053371999/) |
+| Fuzzball (1995) | 65/85, signed | Yes (frame 22.5×18.5, print 16×12) | $800 (was $1,200) | Facebook Marketplace (new Oct 19; separate from Casper $1,100) | Douglas, WY | [open](https://www.facebook.com/marketplace/item/1416415274037454/) |
 | Lyra | 116/1300 | Unknown | $500 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1108398759032104/) |
 | Fandango | 1986 limited edition | Yes | $500 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1788972918944457/) |
 | Apple Dumpling | — | Unknown | $400 | Facebook Marketplace | Gillette, WY | [open](https://www.facebook.com/marketplace/item/1849788486193503/) |
@@ -200,6 +204,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 
 ## Auction sweep notes
+- **2026-10-25:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; 0 bids; Nov 7 1:00pm MT). Blocked/inconclusive: Heritage 403, MaxSold Cloudflare, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
 - **2026-10-22:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; framed 28×28×2; 0 bids, no current bid; Nov 7 1:00pm MT). Otherwise 0 Vivi: HiBid API 0, LiveAuctioneers API 0 (healthy), MutualArt only Puppy Folly, estatesales.net 0, BidSpotter no lots, CTBids Casper/Cheyenne 0 active, Invaluable past only. Blocked/limited: Heritage 403, MaxSold CF, Proxibid empty, CTBids main search JS shell, AuctionZip 404, Invaluable upcoming forced to past, Bidsquare site search ignores query.
 - **2026-10-19:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; framed 28×28×2; 0 bids; Nov 7 1:00pm MT). Otherwise 0 Vivi: HiBid API 0, LiveAuctioneers API 0 (healthy), estatesales.net 0, BidSpotter no lots, MutualArt only Puppy Folly, Invaluable past only. Blocked/limited: Heritage 403, MaxSold CF, Proxibid Incapsula, CTBids JS shell, AuctionZip 404, Invaluable upcoming forced to past, Bidsquare site search ignores query.
 - **2026-10-16:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; framed 28×28×2; 0 bids; Nov 7 1:00pm MT). Otherwise 0 on verifiable surfaces. HiBid Vivi queries 0 (broad Crandall = non-Vivi). Blocked/limited: Heritage 403, Proxibid Incapsula, BidSpotter empty, MaxSold CF, LiveAuctioneers API degraded, MutualArt 404, CTBids/AuctionZip/estatesales JS shells.
