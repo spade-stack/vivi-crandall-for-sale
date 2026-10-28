@@ -1,7 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-10-25 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-10-28 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
+
+**2026-10-28 update:** **eBay:** 66/69 known IDs live, no price changes. **Relinks** (Kelly's Collectibles seller-ended Oct 27 and relisted, same $): ★ **Shadow Play / Shadowplay (1986) AP 6/50** $2,000 BO `237065764959` → `237146903543`; **Lot of 14 wildlife prints** $7,500 BO `336791824883` → `336865651528`. **REMOVED** Billy Club – Mountain Goats `398331258374` $279.99 BO (PRINTS.COM; ended Oct 27, no relist; Prints.com-site Billy Club stays). **+1** **Cotton Candy – Deer**, S/N edition of 760 (no number), 24×12 in, framing not stated, **$399.99** BIN/BO `820281681458` (PRINTS.COM, Milwaukee WI; relist of `397737750555`) → 69 known IDs. **Facebook Marketplace:** all 22 prior listings live at listed prices; **+2** → 24: **Reveille** (1983) elk in fog, “sold out” edition (no number), framed 26.5×32 in (print 24×18), **$1,000**, Douglas WY (`29247922864803187`, listed ~Oct 23); **Swat Team** (1989) bobcat kittens, signed & dated, edition of 850 (number not read), framed dark wood w/ double grey/gold mat, **$150** (was $200), Erie PA (`2211041706515737`, listed ~Oct 23). Powell WY $30 “picture” posts still excluded. FB searches read only the first ~50–60 results per search. **Craigslist:** 1248/1248 OK, 0 blocked, **0Δ**. **Dealers:** **0Δ**; Prints.com reachable (all 22 known print_id pages live, same prices) but artist catalog page renders an empty list, so new Prints.com additions are unverifiable; vivicrandall.com down. **Auctions:** **2 open** — **NEW** HiBid `328319789` Signed 27/760 “Shadow Play”, framed & matted, Washington Estate Liquidation (Concrete WA) Lot 469, $0 / 0 bids (opens $1, 18% BP), ends Fri Nov 13 ~7:18pm MT soft close; Puppy Folly still 0 bids (Nov 7 ~1:00pm MT). **Blocked/inconclusive:** Heritage 403, MaxSold Cloudflare, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
 
 **2026-10-25 update:** **eBay:** **+2** prints.com relists (seller PRINTS.COM, Milwaukee WI, listed within last 3 days) — **Foxfire – Fox, Artist's Proof on Paper** AP (no number), framing not stated, **$449.99** BIN/BO `820267833090` (relist of ended `358352604889`) and **Foxfire – Fox**, edition/framing not stated, **$299.99** BIN/BO `820267833012` (relist of `397737750621`); all 67 other known IDs live, prices unchanged → 69 known IDs. **Facebook Marketplace:** 22 live, **0 new**; price change **Fuzzball (1995) 65/85** Douglas WY `1416415274037454` **$1,200 → $800** (Facebook search weak this run; Chicago center radius unconfirmed). **Craigslist:** 416 US sites × 3 queries, 0 blocked, **0Δ**. **Dealers:** **0Δ**, but Prints.com timed out (unverified, kept as-is); vivicrandall.com down. **Auctions:** only Puppy Folly open (0 bids, Nov 7 1:00pm MT). **Blocked/inconclusive:** Heritage 403, MaxSold Cloudflare, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
 
@@ -25,7 +27,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Shadow Play / Shadowplay (1986) mule deer | **AP 6/50** | Yes (framed & matted) | $2,000 BO | eBay (Kelly's) | relist | [open](https://www.ebay.com/itm/237065764959) |
+| Shadow Play / Shadowplay (1986) mule deer | **AP 6/50** | Yes (framed & matted) | $2,000 BO | eBay (Kelly's) | relist Oct 27 | [open](https://www.ebay.com/itm/237146903543) |
 | Bunny Berries AP (1994) | AP ed. of 75 | Yes | Inquire ~$1,200 | Art Brokerage | — | [open](https://www.artbrokerage.com/Vivi-Crandall) |
 | Night Shift AP on Paper | AP | Unknown | $949.95 | Prints.com | — | [open](https://www.prints.com/prints.php/Vivi_Crandall/Night_Shift/?artist_id=2367&print_id=23085) |
 | Buddy System Artist Print | #400/760 | Matte | $680 BO | eBay | Jan 6 | [open](https://www.ebay.com/itm/296927806785) |
@@ -51,13 +53,13 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Night Watch | — | Unknown | $409.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336791609503) |
 | Totem Pole – Owls | — | Unknown | $399.99 BO | eBay | new | [open](https://www.ebay.com/itm/820191715131) |
 | Wascally Wabbit – Rabbit | — | Unknown | $399.99 BO | eBay | Aug 31 | [open](https://www.ebay.com/itm/398345547823) |
+| Cotton Candy – Deer | S/N, edition of 760 (no number) | Not stated (24×12 in) | $399.99 BIN/BO | eBay (PRINTS.COM, Milwaukee WI) | new Oct 28 (relist of 397737750555) | [open](https://www.ebay.com/itm/820281681458) |
 | Dew Drop Inn – Owl | — | Unknown | $379.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336788864976) |
 | Fandango – Swan | — | Unknown | $359.99 BO | eBay | new | [open](https://www.ebay.com/itm/398452652697) |
 | Hot Cross Buns – Bears | — | Unknown | $349.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820104559469) |
 | Bull Rush – Buffalo | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/398379379325) |
 | Lean Cuisine – Coyote | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820188275836) |
 | Foxfire – Fox | Not stated | Not stated | $299.99 BIN/BO | eBay (PRINTS.COM, Milwaukee WI) | new Oct 25 (relist of 397737750621) | [open](https://www.ebay.com/itm/820267833012) |
-| Billy Club – Mountain Goats | — | Unknown | $279.99 BO | eBay | Aug 27 | [open](https://www.ebay.com/itm/398331258374) |
 | Skinny Dippin – Moose | — | Unknown | $249.99 BO | eBay | new | [open](https://www.ebay.com/itm/336826345327) |
 | Tunnel of Love – Bobcats | — | Unknown | $199.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336809934914) |
 | Running on Empty – Cougar | — | Unknown | $149.95 BO | eBay | relist | [open](https://www.ebay.com/itm/820140637423) |
@@ -67,7 +69,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Lot of 14 wildlife prints framed/rolled | Mixed | Mixed | $7,500 BO | eBay | new | [open](https://www.ebay.com/itm/336791824883) |
+| Lot of 14 wildlife prints framed/rolled | Mixed | Mixed | $7,500 BO | eBay | relist Oct 27 | [open](https://www.ebay.com/itm/336865651528) |
 | Footloose (1985) 40×24 | — | Yes | $750 BO | eBay | May 25 | [open](https://www.ebay.com/itm/226162457012) |
 | Lady in Red (sold-out edition) | Sold out LE | Unknown | $699 BO | eBay | new | [open](https://www.ebay.com/itm/187318511958) |
 | Bunny Berries | 200/760 | Unknown | $525 BO | eBay | Jan 29 | [open](https://www.ebay.com/itm/263465869147) |
@@ -166,6 +168,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Catwalk | Signed/numbered, LOA | Unknown | $3,000 | Facebook Marketplace | Wellington, CO | [open](https://www.facebook.com/marketplace/item/1730074031561541/) |
 | Northern Lights | 727/940 | Yes (34×34) | $2,000 | Facebook Marketplace (new, listed Oct 12) | Casper, WY | [open](https://www.facebook.com/marketplace/item/1117367754567152/) |
 | Fuzzball | Signed | Yes | $1,100 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/863558626512129/) |
+| Reveille (1983) elk in fog | “Sold out” edition (no number) | Yes (framed 26.5×32 in, print 24×18 in) | $1,000 | Facebook Marketplace (new, listed ~Oct 23) | Douglas, WY | [open](https://www.facebook.com/marketplace/item/29247922864803187/) |
 | Cotton Balls | Signed limited edition | Yes | $850 | Facebook Marketplace | Casper, WY | [open](https://www.facebook.com/marketplace/item/1645426943232504/) |
 | Footloose | Signed/numbered | Unknown | $800 | Facebook Marketplace | Cheyenne, WY | [open](https://www.facebook.com/marketplace/item/1090940053371999/) |
 | Fuzzball (1995) | 65/85, signed | Yes (frame 22.5×18.5, print 16×12) | $800 (was $1,200) | Facebook Marketplace (new Oct 19; separate from Casper $1,100) | Douglas, WY | [open](https://www.facebook.com/marketplace/item/1416415274037454/) |
@@ -177,6 +180,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Perfect Size Seven | Signed/numbered | Unknown | $325 | Facebook Marketplace | Laramie, WY | [open](https://www.facebook.com/marketplace/item/1712742343105425/) |
 | Wolf & Ram | 690/760 | Yes | $190 | Facebook Marketplace | Oklahoma City, OK | [open](https://www.facebook.com/marketplace/item/1299658294967987/) |
 | Studs | Signed/numbered | Yes | $175 | Facebook Marketplace | Colorado Springs, CO | [open](https://www.facebook.com/marketplace/item/1376553854467942/) |
+| Swat Team (1989) bobcat kittens | Signed & dated, edition of 850 (number not read) | Yes (dark wood, double grey/gold mat) | $150 (was $200) | Facebook Marketplace (new, listed ~Oct 23) | Erie, PA | [open](https://www.facebook.com/marketplace/item/2211041706515737/) |
 | Whitetail Buck | Signed, 1990 | Yes | $100 | Facebook Marketplace | Mohnton, PA | [open](https://www.facebook.com/marketplace/item/1865028998205216/) |
 | Framed wildlife print | — | Yes | $95 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/4603372776599431/) |
 | Framed wolf print | — | Yes | $90 | Facebook Marketplace | Ships | [open](https://www.facebook.com/marketplace/item/1056972623386149/) |
@@ -200,10 +204,15 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 ## Open auctions
 
-**Puppy Folly (1993)** original oil, framed 28×28×2 in — Bidsquare / Coeur d'Alene Art Auction Lot 87, live online **Nov 7, 2026, 1:00pm MT**, est $1,000–$1,500, start $500, 0 bids, 21% BP (card in Original paintings). No other open lots. HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
+**2 OPEN lots.** (1) **Puppy Folly (1993)** original oil, framed 28×28×2 in — Bidsquare / Coeur d'Alene Art Auction Lot 87, live online **Nov 7, 2026, ~1:00pm MT**, est $1,000–$1,500, start $500, **still 0 bids**, 21% BP (card in Original paintings). (2) **NEW** HiBid **328319789** — Signed **27/760** “Shadow Play” by Vivi K. Crandall, framed & matted — Washington Estate Liquidation (Concrete WA) Lot 469; high bid **$0 (0 bids)**, opens $1, 18% BP; ends **Fri Nov 13 ~7:18pm MT** (soft close); shipping on small items or pickup Nov 14 (card in Open auctions (HiBid), row below). Prior HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
+
+| Name | Number | Framed | Price | Source | Listed | Link |
+|---|---|---|---|---|---|---|
+| Shadow Play | Signed 27/760 | Yes (framed & matted) | Current bid $0 (0 bids; opens $1) +18% BP | HiBid / Washington Estate Liquidation (Concrete WA), Lot 469 | OPEN · new Oct 28 · ends Fri Nov 13 ~7:18pm MT (soft close) | [open](https://hibid.com/lot/328319789) |
 
 
 ## Auction sweep notes
+- **2026-10-28:** **2 OPEN** lots — **NEW** HiBid 328319789 Shadow Play 27/760 (Washington Estate Liquidation, Concrete WA, Lot 469; $0 / 0 bids; ends Fri Nov 13 ~7:18pm MT soft close) and Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; 0 bids; Nov 7 ~1:00pm MT). HiBid 327933687 stein/Bradford excluded. LiveAuctioneers API 0, MutualArt Puppy Folly only, estatesales.net 0, BidSpotter 0. Blocked/inconclusive: Heritage 403, MaxSold Cloudflare, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
 - **2026-10-25:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; 0 bids; Nov 7 1:00pm MT). Blocked/inconclusive: Heritage 403, MaxSold Cloudflare, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
 - **2026-10-22:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; framed 28×28×2; 0 bids, no current bid; Nov 7 1:00pm MT). Otherwise 0 Vivi: HiBid API 0, LiveAuctioneers API 0 (healthy), MutualArt only Puppy Folly, estatesales.net 0, BidSpotter no lots, CTBids Casper/Cheyenne 0 active, Invaluable past only. Blocked/limited: Heritage 403, MaxSold CF, Proxibid empty, CTBids main search JS shell, AuctionZip 404, Invaluable upcoming forced to past, Bidsquare site search ignores query.
 - **2026-10-19:** **1 OPEN** lot — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; framed 28×28×2; 0 bids; Nov 7 1:00pm MT). Otherwise 0 Vivi: HiBid API 0, LiveAuctioneers API 0 (healthy), estatesales.net 0, BidSpotter no lots, MutualArt only Puppy Folly, Invaluable past only. Blocked/limited: Heritage 403, MaxSold CF, Proxibid Incapsula, CTBids JS shell, AuctionZip 404, Invaluable upcoming forced to past, Bidsquare site search ignores query.
