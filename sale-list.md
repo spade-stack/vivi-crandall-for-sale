@@ -1,7 +1,9 @@
 # Vivi Crandall — currently for sale (grid)
 
-Last updated: 2026-11-07 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
+Last updated: 2026-11-10 (Mountain). Active buyable only. No plates. Sections sorted price high→low.
 Open this folder’s `sale-grid.html` for the visual grid.
+
+**2026-11-10 update:** **eBay:** direct search pages 403 in Playwright (all retries); search read via WebFetch (quoted 230 results, Art cat 550 70) + item pages via Playwright (67 known IDs: 65 live, 1 ended, 1 unread 403 but present in Art-cat search). **+5 new** (listed Nov 7–9): **Skinny Dippin – Moose** PRINTS.COM relist $249.99 BO (Nov 9; item ID not captured, link = seller search); **Running on Empty** framed “#6/670” $249.99 BIN/BO `820337432195` (mic234139); **Close Encounter** signed & framed $299.99 BIN/BO `820333019948` (mic234139); **Night Watch 618/760** $375 BIN/BO `366794889934` (Art.Finders relist; same edition # as `256884699324`, both kept); **The Lion in Winter** 392/760 framed $89.90 BIN `198780170838`. **−1 ended:** Bull Rush – Buffalo `398379379325` (seller-ended Nov 9). **PRICE** Rams oil `306373740237` $4,150 → $4,100. **Auctions:** **Puppy Folly SOLD at auction Nov 7 — REMOVED** (Bidsquare shows “sold at auction on 7th November”); HiBid Shadow Play now **$2.00 / 2 bids**, ends Fri Nov 13 ~8:18pm MST. **Craigslist:** 1248/1248 OK, 0 blocked, 0Δ (same 6 hits; plate/figurine excluded). **Dealers:** 0Δ (Art Brokerage, ArtUSA, Beckman, Prints.com pages checked; Gallery 601 3 pages show OOS wording but kept per rule; Kelly's lot unchanged). **Facebook Marketplace: NOT searched** (cannot drive browser; WebFetch timed out) — 28 existing FB cards carried forward unverified. **Blocked:** Heritage/MaxSold/Proxibid/CTBids/AuctionZip/LiveAuctioneers not re-searched cleanly; eBay search 403.
 
 **2026-11-07 update:** **eBay:** quoted 227 + `vivi k crandall` ~50 + Art cat 550 66 → 306 unique IDs; 67/68 known IDs live. **0 new.** **1 ended** (seller-ended Fri Nov 6, not sold) — **REMOVED** Night Watch (1985) 618/760 unframed auction `366778581438` ($150 start / $295 BIN; Art.Finders.online). Sibling `256884699324` same edition # still LIVE $399.99 BO (duplicate note cleared). Known IDs 68 → **67**. **Dealers:** **0Δ** (Prints.com 22 known pages unchanged; catalog grid has no Vivi IDs, so additions unverifiable); vivicrandall.com down. **Craigslist:** 1248/1248 OK, 0 blocked, **0 art Δ** (Roseville re-bumped Nov 6; +2 excluded non-art: Bradford plate $10, Leader of the Pack figurine $20). **Facebook Marketplace:** 4 centers (Cheyenne, Dallas, Chicago, New York) × 2 queries at 500 mi, no login wall; **0 new**, all 28 known live; **PRICE** Swat Team (1989) `2211041706515737` Erie PA **$150 → $100** (edition now read **676/850**). **Auctions:** 2 open, 0 new — **Puppy Folly** original oil now **$500 / 1 bid** (was 0), still open, live sale **today Sat Nov 7 ~1:00pm MST**; HiBid `328319789` Shadow Play 27/760 still **$1.00 / 1 bid**, ends **Fri Nov 13 ~8:18pm MST**. **Blocked/inconclusive:** Heritage 403, MaxSold 403, Proxibid 404/500, CTBids JS shell, AuctionZip, Invaluable upcoming forced to past, Bidsquare search ignores query, LiveAuctioneers API 403.
 
@@ -46,9 +48,8 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Rams in a Mountain Landscape | Original oil on canvas | Unknown | $4,150 (was $4,200) BIN/BO (+$125 ship) | eBay (Shopping Spree, Warrenton VA) | Jun 29 · price drop Oct 31 | [open](https://www.ebay.com/itm/306373740237) |
+| Rams in a Mountain Landscape | Original oil on canvas | Unknown | $4,100 (was $4,150; prior $4,200) BIN/BO (+$125 ship) | eBay (Shopping Spree, Warrenton VA) | Jun 29 · price drop Nov 10 | [open](https://www.ebay.com/itm/306373740237) |
 | Untitled Cougar Portrait (1996) | Original acrylic on canvas | Yes | Inquire ~$2,000 | Art Brokerage | restored | [open](https://www.artbrokerage.com/Vivi-Crandall) |
-| Puppy Folly (1993) — **OPEN AUCTION** | Original oil on canvas, 16×16 in, signed & dated | Yes (framed 28×28×2 in per cdaartauction.com) | Est $1,000–$1,500 · current bid **$500 (1 bid)** +21% BP | Bidsquare / Coeur d'Alene Art Auction, Lot 87 | OPEN · $500 / 1 bid as of Nov 7 · live online **today** Sat Nov 7, 2026, ~1:00pm MST | [open](https://www.bidsquare.com/online-auctions/coeur-dalene/vivi-crandall-1946-2000-puppy-folly-1993-9979365) |
 
 ## Newest eBay (prints.com)
 
@@ -63,10 +64,10 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Dew Drop Inn – Owl | — | Unknown | $379.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336788864976) |
 | Fandango – Swan | — | Unknown | $359.99 BO | eBay | new | [open](https://www.ebay.com/itm/398452652697) |
 | Hot Cross Buns – Bears | — | Unknown | $349.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820104559469) |
-| Bull Rush – Buffalo | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/398379379325) |
 | Lean Cuisine – Coyote | — | Unknown | $299.99 BO | eBay | relist | [open](https://www.ebay.com/itm/820188275836) |
 | Foxfire – Fox | Not stated | Not stated | $299.99 BIN/BO | eBay (PRINTS.COM, Milwaukee WI) | new Oct 25 (relist of 397737750621) | [open](https://www.ebay.com/itm/820267833012) |
 | Billy Club – Mountain Goats | Ed. 940 S/N (no number) | Not stated (22×22 in) | $279.99 BO | eBay (PRINTS.COM, Milwaukee WI) | new Nov 4 (relist of 398331258374) | [open](https://www.ebay.com/itm/336876310320) |
+| Skinny Dippin – Moose | Ed. 850 S/N (no number) | Not stated (25.5×20 in image) | $249.99 BO | eBay (PRINTS.COM, Milwaukee WI) | new Nov 9 (relist of ended 336826345327; item ID not captured — link is seller search) | [open](https://www.ebay.com/sch/i.html?_nkw=vivi+crandall+skinny+dippin+moose&_ssn=prints.com&_sop=10) |
 | Tunnel of Love – Bobcats | — | Unknown | $199.99 BO | eBay | relist | [open](https://www.ebay.com/itm/336809934914) |
 | Running on Empty – Cougar | — | Unknown | $149.95 BO | eBay | relist | [open](https://www.ebay.com/itm/820140637423) |
 | Wash Bears – Raccoons | — | Unknown | $129.95 BO | eBay | new | [open](https://www.ebay.com/itm/336821677828) |
@@ -88,6 +89,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | THE BILLY CLUB litho | LE hand signed | Unknown | $399.99 BIN | eBay | new | [open](https://www.ebay.com/itm/335180555917) |
 | Fuzz Ball | 85/850 | Unknown | $395 BO | eBay | new | [open](https://www.ebay.com/itm/263579309390) |
 | Cotton Candy (1986) | 369/760 | Unknown | $395 BO | eBay | May 1 | [open](https://www.ebay.com/itm/256914215396) |
+| Night Watch (1985) – deer | 618/760, signed | Not stated | $375 BIN/BO | eBay (Art.Finders.online, Fort Myers FL) | new Nov 8 (relist of ended auction 366778581438; ⚠ same edition # as 256884699324 — both kept) | [open](https://www.ebay.com/itm/366794889934) |
 | Totem Pole – Owls | 107/760 | Unknown | $350 BO | eBay | new | [open](https://www.ebay.com/itm/256945019237) |
 | Running on Empty (unframed, sold-out ed.) | — | No | $350 BO | eBay | new | [open](https://www.ebay.com/itm/284094798226) |
 | Totem Pole – Owls | 343/760 | Unknown | $345 BO | eBay | Mar 20 | [open](https://www.ebay.com/itm/298145049960) |
@@ -100,9 +102,11 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Indian Summer | — | Unknown | $300 BO | eBay | Feb 9 | [open](https://www.ebay.com/itm/284179048595) |
 | Wash Bears LTD – Raccoons | 425/760 | Unknown | $299.99 BO | eBay | new | [open](https://www.ebay.com/itm/256887192246) |
 | Foxfire | 166/670 | Yes | $299.99 BO | eBay | Apr 26 | [open](https://www.ebay.com/itm/326104763355) |
+| Close Encounter – Grizzly | Signed (number not stated) | Yes (green/black frame, matted) | $299.99 BIN/BO | eBay (mic234139, Deltona FL) | new Nov 8 | [open](https://www.ebay.com/itm/820333019948) |
 | Totem Pole | 60/760 | Unknown | $295 BO | eBay | Mar 14 | [open](https://www.ebay.com/itm/188162900242) |
 | Kits & Kaboodle | — | Unknown | $255 BO | eBay | live | [open](https://www.ebay.com/itm/294186707664) |
 | Skinny Dippin – Moose | 556/850 | Unknown | $250 BO | eBay | new | [open](https://www.ebay.com/itm/256887188745) |
+| Running on Empty – cougar & ocelot | #6/670 per title (⚠ title edition doesn’t match known 1835 ed.), signed | Yes (dark wood, matted) | $249.99 BIN/BO | eBay (mic234139, Deltona FL) | new Nov 9 | [open](https://www.ebay.com/itm/820337432195) |
 | Skinny Dippin – Moose | — | Unknown | $245 BO | eBay | live | [open](https://www.ebay.com/itm/294817511042) |
 | Wash Bears | — | No | $240 BO | eBay | Feb 4 | [open](https://www.ebay.com/itm/284172848774) |
 | Pickled Tink | 147/760 | Unknown | $230 BO | eBay | new | [open](https://www.ebay.com/itm/256888797093) |
@@ -121,6 +125,7 @@ Open this folder’s `sale-grid.html` for the visual grid.
 | Running on Empty (1989) | 230/1835 | Unknown | $125 BO (was $250) | eBay | Aug 8 · price drop Nov 4 | [open](https://www.ebay.com/itm/128016918456) |
 | Freezer Burn – Cougar (framed) | S/N | Yes | $99 BO | eBay | new | [open](https://www.ebay.com/itm/128080827494) |
 | Kits And Kaboodle (1991) | S/N | Unknown | $90 BIN | eBay | live | [open](https://www.ebay.com/itm/354091328693) |
+| The Lion in Winter – cougar | 392/760, signed & numbered litho | Yes (matted & framed) | $89.90 BIN | eBay (shopping*with*gina, West Linn OR) | new Nov 7 | [open](https://www.ebay.com/itm/198780170838) |
 
 ## Art Brokerage
 
@@ -214,14 +219,15 @@ Open this folder’s `sale-grid.html` for the visual grid.
 
 ## Open auctions
 
-**2 OPEN lots (as of Nov 7; first bid on Puppy Folly).** (1) **Puppy Folly (1993)** original oil, framed 28×28×2 in — Bidsquare / Coeur d'Alene Art Auction Lot 87, live online **today Sat Nov 7, 2026, ~1:00pm MST**, est $1,000–$1,500, **current bid $500 (1 bid)** (was 0), 21% BP — still pre-sale / accepting bids as of ~9:42am MST (card in Original paintings). (2) HiBid **328319789** — Signed **27/760** “Shadow Play” by Vivi K. Crandall, framed & matted — Washington Estate Liquidation (Concrete WA) Lot 469; high bid **$1.00 (1 bid)** unchanged, opens $1, 18% BP; ends **Fri Nov 13 ~8:18pm MST** (soft close); shipping on small items or pickup Nov 14 (card in Open auctions (HiBid), row below). Prior HiBid **THE I.R.S.** 321230331 ended soft-close Mon Sep 28 — Price Realized **$160** (+18% BP; Gardner Auction, Kalispell MT).
+**1 OPEN lot (as of Nov 10).** HiBid **328319789** — Signed **27/760** “Shadow Play” by Vivi K. Crandall, framed & matted — Washington Estate Liquidation (Concrete WA) Lot 469; high bid **$2.00 (2 bids)** (was $1.00 / 1), 18% BP; ends **Fri Nov 13 ~8:18pm MST** (soft close); shipping on small items or pickup Nov 14 (card in Open auctions (HiBid)). **Puppy Folly** (Bidsquare / Coeur d'Alene Lot 87) **SOLD at auction Nov 7 — REMOVED.** Prior HiBid **THE I.R.S.** 321230331 ended Mon Sep 28 — $160.
 
 | Name | Number | Framed | Price | Source | Listed | Link |
 |---|---|---|---|---|---|---|
-| Shadow Play | Signed 27/760 | Yes (framed & matted) | Current bid $1.00 (1 bid) +18% BP | HiBid / Washington Estate Liquidation (Concrete WA), Lot 469 | OPEN · new Oct 28 · $1.00 / 1 bid as of Nov 7 (unchanged) · ends Fri Nov 13 ~8:18pm MST (soft close) | [open](https://hibid.com/lot/328319789) |
+| Shadow Play | Signed 27/760 | Yes (framed & matted) | Current bid $2.00 (2 bids) +18% BP | HiBid / Washington Estate Liquidation (Concrete WA), Lot 469 | OPEN · new Oct 28 · $2.00 / 2 bids as of Nov 10 (was $1.00 / 1) · ends Fri Nov 13 ~8:18pm MST (soft close) | [open](https://hibid.com/lot/328319789) |
 
 
 ## Auction sweep notes
+- **2026-11-10:** **1 OPEN** — HiBid 328319789 Shadow Play 27/760 now **$2.00 / 2 bids** (ends Fri Nov 13 ~8:18pm MST). Puppy Folly (Bidsquare / CdA Lot 87) **sold Nov 7 — removed**. WebSearch: no other open Vivi lots (Invaluable results all past). Heritage/MaxSold/Proxibid/CTBids/AuctionZip/LiveAuctioneers not cleanly searchable.
 - **2026-11-07:** **2 OPEN**, 0 new — Puppy Folly (Bidsquare / Coeur d'Alene Lot 87) now **$500 / 1 bid** (was 0; live sale **today** Sat Nov 7 ~1:00pm MST; still pre-sale as of ~9:42am MST) and HiBid 328319789 Shadow Play 27/760 **$1.00 / 1 bid** (unchanged; ends Fri Nov 13 ~8:18pm MST). MutualArt Puppy Folly only; BidSpotter 0; WebSearch past only. Blocked/inconclusive: Heritage 403, MaxSold 403, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search, LiveAuctioneers API 403.
 - **2026-11-04:** **2 OPEN**, 0 new — HiBid 328319789 Shadow Play 27/760 **$1.00 / 1 bid** (was $0 / 0; ends Fri Nov 13 ~8:18pm MST, confirmed) and Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; 0 bids; est $1,000–1,500, start $500; Sat Nov 7 ~1:00pm MST). HiBid 327933687 stein/Bradford closed. LiveAuctioneers API 0, MutualArt Puppy Folly only, estatesales.net 0 Vivi (Costa Mesa sale = Jerry Crandall), BidSpotter 0. Blocked/inconclusive: Heritage 403, MaxSold 403, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
 - **2026-11-01:** **2 OPEN**, no bid changes — HiBid 328319789 Shadow Play 27/760 ($0 / 0 bids; ends Fri Nov 13 ~8:18pm MST — corrected after DST change) and Puppy Folly (Bidsquare / Coeur d'Alene Lot 87; 0 bids; est $1,000–1,500, start $500; Sat Nov 7 ~1:00pm MST). Blocked/inconclusive: Heritage 403, MaxSold 403, Proxibid, CTBids, AuctionZip, Invaluable upcoming, Bidsquare search.
